@@ -43,7 +43,6 @@ def tagged (phrase, tags, ignore, insensitive = true, exact = true)
 		if tags.include? sub.tag
 			if insensitive
 				if !in_arr?(ignore, sub.to_s.downcase, exact)
-					puts sub.to_s
 					return sub
 				end
 			elsif !in_arr?(ignore, sub, exact)
@@ -81,9 +80,9 @@ par.each_sentence do |sent|
 	end
 	if verb != noun && verb != nil && noun != nil
 		counter += 1
-		# puts "question#{counter}: what #{verb}? ---"
-		# puts "answer: #{noun}"
-		# puts "*****************"
+		puts "question#{counter}: what #{verb}? ---"
+		puts "answer: #{noun}"
+		puts "*****************"
 	end
 
 end
