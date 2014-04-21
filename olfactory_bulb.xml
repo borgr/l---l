@@ -1,0 +1,3261 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<treat>
+<document id='23072916' file='C:/Ruby193/lib/ruby/gems/1.9.1/gems/treat-2.0.7/files//Olfactory_bulb.html' format='html' images='[&quot;//upload.wikimedia.org/wikipedia/commons/7/7c/1543%2CVesalius%27OlfactoryBulbs.jpg&quot;, &quot;//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mouse_MOB_three_color.jpg/310px-Mouse_MOB_three_color.jpg&quot;, &quot;//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Early_Olfactory_System.svg/220px-Early_Olfactory_System.svg.png&quot;, &quot;//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tyrannosaurus_brain_aus.jpg/220px-Tyrannosaurus_brain_aus.jpg&quot;]' url='http://en.wikipedia.org/wiki/Olfactory_bulb' >
+ <section id='28109340' level='1' >
+  <title id='28108944'>
+   <phrase id='28165308' tag_set=':penn' tag='P' >
+    <phrase id='44062956' tag='NP' >
+     <word id='46196088' tag='JJ' >Olfactory</word>
+     <word id='47927112' tag='NN' >bulb</word>
+    </phrase>
+    <punctuation id='49413504' tag=':' >-</punctuation>
+    <phrase id='50842656' tag='NP' >
+     <phrase id='52237272' tag='NP' >
+      <word id='40744896' tag='NNP' >Wikipedia</word>
+     </phrase>
+     <punctuation id='44004504' tag=',' >,</punctuation>
+     <phrase id='46454688' tag='NP' >
+      <word id='48207588' tag='DT' >the</word>
+      <word id='49944792' tag='JJ' >free</word>
+      <word id='51340332' tag='NN' >encyclopedia</word>
+     </phrase>
+    </phrase>
+   </phrase>
+  </title>
+  <paragraph id='28106076'>
+   <sentence id='28156356' tag_set=':penn' tag='S' >
+    <phrase id='27665724' tag='S' >
+     <phrase id='42954564' tag='NP' >
+      <word id='45928824' tag='DT' >The</word>
+      <word id='47677932' tag='JJ' >olfactory</word>
+      <word id='49305708' tag='NN' >bulb</word>
+     </phrase>
+     <phrase id='50805852' tag='VP' >
+      <word id='52298652' tag='VBZ' >is</word>
+      <phrase id='41424888' tag='NP' >
+       <phrase id='41367384' tag='NP' >
+        <word id='47214924' tag='DT' >a</word>
+        <word id='48992976' tag='JJ' >neural</word>
+        <word id='50736984' tag='NN' >structure</word>
+       </phrase>
+       <phrase id='52228536' tag='PP' >
+        <word id='43118700' tag='IN' >of</word>
+        <phrase id='46073280' tag='NP' >
+         <phrase id='48014016' tag='NP' >
+          <word id='49985148' tag='DT' >the</word>
+          <word id='51554016' tag='JJ' >vertebrate</word>
+          <word id='42734400' tag='NN' >forebrain</word>
+         </phrase>
+         <phrase id='45939084' tag='VP' >
+          <word id='47942496' tag='VBN' >involved</word>
+          <phrase id='49926204' tag='PP' >
+           <word id='51600684' tag='IN' >in</word>
+           <phrase id='43277820' tag='NP' >
+            <word id='46395600' tag='NN' >olfaction</word>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+    </phrase>
+    <punctuation id='48030516' tag=':' >;</punctuation>
+    <phrase id='49508568' tag='S' >
+     <phrase id='51000348' tag='NP' >
+      <word id='27587256' tag='DT' >that</word>
+     </phrase>
+     <phrase id='42771264' tag='VP' >
+      <word id='45879768' tag='VBZ' >is</word>
+      <phrase id='47607768' tag='NP' >
+       <phrase id='49265580' tag='NP' >
+        <word id='50989716' tag='DT' >the</word>
+        <word id='27666816' tag='NN' >perception</word>
+       </phrase>
+       <phrase id='43288944' tag='PP' >
+        <word id='46138296' tag='IN' >of</word>
+        <phrase id='48037440' tag='NP' >
+         <word id='49945656' tag='NNS' >odors</word>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+    </phrase>
+    <punctuation id='51243072' tag='.' >.</punctuation>
+   </sentence>
+  </paragraph>
+  <paragraph id='28103832'>
+   <sentence id='28147764' tag_set=':penn' tag='S' >
+    <phrase id='40612896' tag='PP' >
+     <word id='45869844' tag='VBG' >Destruction</word>
+     <phrase id='46291896' tag='PP' >
+      <word id='48040344' tag='TO' >to</word>
+      <phrase id='49789920' tag='NP' >
+       <phrase id='51249216' tag='NP' >
+        <word id='27858204' tag='DT' >the</word>
+        <word id='43630668' tag='JJ' >olfactory</word>
+        <word id='46244268' tag='NN' >bulb</word>
+        <word id='48145440' tag='NNS' >results</word>
+       </phrase>
+       <phrase id='49934424' tag='PP' >
+        <word id='51415632' tag='IN' >in</word>
+        <phrase id='40929252' tag='NP' >
+         <word id='41636868' tag='JJ' >ipsilateral</word>
+         <word id='47352432' tag='NN' >anosmia</word>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+    </phrase>
+    <punctuation id='48889284' tag=',' >,</punctuation>
+    <phrase id='50438280' tag='NP' >
+     <phrase id='51751032' tag='NP' >
+      <word id='40745424' tag='JJ' >irritative</word>
+      <word id='41911992' tag='NN' >lesion</word>
+     </phrase>
+     <phrase id='46595736' tag='PP' >
+      <word id='48343416' tag='IN' >of</word>
+      <phrase id='50044812' tag='NP' >
+       <word id='51544572' tag='DT' >the</word>
+       <word id='28185084' tag='NNS' >uncus</word>
+      </phrase>
+     </phrase>
+    </phrase>
+    <phrase id='43679184' tag='VP' >
+     <word id='46145532' tag='VBZ' >results</word>
+     <phrase id='47831100' tag='PP' >
+      <word id='49457400' tag='IN' >in</word>
+      <phrase id='51045084' tag='NP' >
+       <word id='52552464' tag='NN' >olfactory</word>
+       <word id='42026748' tag='CC' >and</word>
+       <word id='41508108' tag='NN' >gustatory</word>
+       <word id='47501796' tag='NNS' >hallucinations</word>
+      </phrase>
+     </phrase>
+    </phrase>
+    <punctuation id='48989976' tag='.' >.</punctuation>
+   </sentence>
+  </paragraph>
+  <section id='28103268' level='2' >
+   <title id='28102920'>
+    <phrase id='28128936' tag_set=':penn' tag='P' >
+     <word id='50788812' tag='NNP' >Anatomy</word>
+     <punctuation id='52187916' tag='NNP' >[</punctuation>
+     <word id='40812180' tag='NNP' >edit</word>
+     <punctuation id='41925648' tag='NNP' >]</punctuation>
+    </phrase>
+   </title>
+   <paragraph id='28100592'>
+    <sentence id='28112076' tag_set=':penn' tag='S' >
+     <phrase id='47003028' tag='PP' >
+      <word id='48729636' tag='IN' >In</word>
+      <phrase id='50394792' tag='NP' >
+       <word id='47232108' tag='JJS' >most</word>
+       <word id='40636284' tag='NNS' >vertebrates</word>
+      </phrase>
+     </phrase>
+     <punctuation id='43934592' tag=',' >,</punctuation>
+     <phrase id='46340520' tag='NP' >
+      <word id='48101316' tag='DT' >the</word>
+      <word id='49877448' tag='JJ' >olfactory</word>
+      <word id='51250440' tag='NN' >bulb</word>
+     </phrase>
+     <phrase id='52691664' tag='VP' >
+      <word id='41801700' tag='VBZ' >is</word>
+      <phrase id='41671392' tag='NP' >
+       <phrase id='47284992' tag='NP' >
+        <word id='49051008' tag='DT' >the</word>
+        <phrase id='50787780' tag='ADJP' >
+         <word id='52437912' tag='RBS' >most</word>
+         <word id='43287588' tag='JJ' >rostral</word>
+        </phrase>
+        <punctuation id='46138464' tag='NN' >(</punctuation>
+       </phrase>
+       <phrase id='47942004' tag='VP' >
+        <phrase id='49805256' tag='ADVP' >
+         <word id='51413832' tag='RB' >forward</word>
+        </phrase>
+        <punctuation id='40823484' tag='VBG' >)</punctuation>
+        <phrase id='42630444' tag='NP' >
+         <phrase id='47056680' tag='NP' >
+          <word id='49049904' tag='NN' >part</word>
+         </phrase>
+         <phrase id='50800308' tag='PP' >
+          <word id='40593708' tag='IN' >of</word>
+          <phrase id='44017584' tag='NP' >
+           <word id='46964664' tag='DT' >the</word>
+           <word id='48991740' tag='NN' >brain</word>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='50587632' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28110168' tag_set=':penn' tag='S' >
+     <phrase id='41922300' tag='PP' >
+      <word id='42932484' tag='IN' >In</word>
+      <phrase id='45878496' tag='NP' >
+       <word id='47751948' tag='NNS' >humans</word>
+      </phrase>
+     </phrase>
+     <punctuation id='49303668' tag=',' >,</punctuation>
+     <phrase id='50848608' tag='ADVP' >
+      <word id='52367064' tag='RB' >however</word>
+     </phrase>
+     <punctuation id='40816776' tag=',' >,</punctuation>
+     <phrase id='41917584' tag='NP' >
+      <word id='46707348' tag='DT' >the</word>
+      <word id='48470796' tag='JJ' >olfactory</word>
+      <word id='50188440' tag='NN' >bulb</word>
+     </phrase>
+     <phrase id='51537792' tag='VP' >
+      <word id='51558936' tag='VBZ' >is</word>
+      <phrase id='42737712' tag='PP' >
+       <word id='45932292' tag='IN' >on</word>
+       <phrase id='47752248' tag='NP' >
+        <phrase id='49470936' tag='NP' >
+         <word id='51236196' tag='DT' >the</word>
+         <phrase id='40594056' tag='ADJP' >
+          <word id='41920752' tag='JJ' >inferior</word>
+          <punctuation id='46954788' tag='JJ' >(</punctuation>
+         </phrase>
+         <word id='48877728' tag='JJ' >bottom</word>
+         <punctuation id='50685804' tag='NN' >)</punctuation>
+         <word id='28043232' tag='NN' >side</word>
+        </phrase>
+        <phrase id='44057112' tag='PP' >
+         <word id='46498008' tag='IN' >of</word>
+         <phrase id='48418848' tag='NP' >
+          <word id='50351124' tag='DT' >the</word>
+          <word id='50390964' tag='NN' >brain</word>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='42734460' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28107864' tag_set=':penn' tag='S' >
+     <phrase id='46243920' tag='NP' >
+      <word id='48033528' tag='DT' >The</word>
+      <word id='49783680' tag='JJ' >olfactory</word>
+      <word id='51235860' tag='NN' >bulb</word>
+     </phrase>
+     <phrase id='52674504' tag='VP' >
+      <word id='41411724' tag='VBZ' >is</word>
+      <phrase id='41315052' tag='VP' >
+       <word id='47111580' tag='VBN' >supported</word>
+       <word id='48885840' tag='CC' >and</word>
+       <word id='50599632' tag='VBN' >protected</word>
+       <phrase id='52132848' tag='PP' >
+        <word id='41611428' tag='IN' >by</word>
+        <phrase id='41687556' tag='NP' >
+         <phrase id='47491020' tag='NP' >
+          <word id='49357548' tag='DT' >the</word>
+          <word id='51199680' tag='NN' >cribriform</word>
+          <word id='40863876' tag='NN' >plate</word>
+         </phrase>
+         <phrase id='41317692' tag='PP' >
+          <word id='47356356' tag='IN' >of</word>
+          <phrase id='49205904' tag='NP' >
+           <word id='51110052' tag='DT' >the</word>
+           <word id='41261532' tag='JJ' >ethmoid</word>
+           <word id='41504868' tag='NN' >bone</word>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+       <punctuation id='47495076' tag=',' >,</punctuation>
+       <phrase id='49152456' tag='SBAR' >
+        <phrase id='50853204' tag='SBAR' >
+         <phrase id='28072800' tag='WHNP' >
+          <word id='43990800' tag='WDT' >which</word>
+         </phrase>
+         <phrase id='46691928' tag='S' >
+          <phrase id='48663336' tag='PP' >
+           <word id='50608260' tag='IN' >in</word>
+           <phrase id='37881288' tag='NP' >
+            <word id='43244340' tag='NNS' >mammals</word>
+           </phrase>
+          </phrase>
+          <phrase id='47010732' tag='VP' >
+           <word id='49057704' tag='VBZ' >separates</word>
+           <phrase id='50982420' tag='NP' >
+            <word id='41442312' tag='PRP' >it</word>
+           </phrase>
+           <phrase id='41507880' tag='PP' >
+            <word id='47826168' tag='IN' >from</word>
+            <phrase id='49935444' tag='NP' >
+             <word id='27847764' tag='DT' >the</word>
+             <word id='43982376' tag='JJ' >olfactory</word>
+             <word id='46945428' tag='NN' >epithelium</word>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+        <punctuation id='48787764' tag=',' >,</punctuation>
+        <word id='50589072' tag='CC' >and</word>
+        <phrase id='27973188' tag='SBAR' >
+         <phrase id='44059200' tag='WHNP' >
+          <word id='46603848' tag='WDT' >which</word>
+         </phrase>
+         <phrase id='48519504' tag='S' >
+          <phrase id='50431020' tag='VP' >
+           <word id='27904512' tag='VBZ' >is</word>
+           <phrase id='45872100' tag='VP' >
+            <word id='46766148' tag='VBN' >perforated</word>
+            <phrase id='48875784' tag='PP' >
+             <word id='50944152' tag='IN' >by</word>
+             <phrase id='41785872' tag='NP' >
+              <word id='46027656' tag='JJ' >olfactory</word>
+              <word id='48306156' tag='NN' >nerve</word>
+              <word id='50483832' tag='NNS' >axons</word>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='27983916' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28105980' tag_set=':penn' tag='S' >
+     <phrase id='43977048' tag='NP' >
+      <word id='46452012' tag='DT' >The</word>
+      <word id='48212904' tag='NN' >bulb</word>
+     </phrase>
+     <phrase id='49936548' tag='VP' >
+      <word id='51361380' tag='VBZ' >is</word>
+      <phrase id='52849860' tag='VP' >
+       <word id='42192468' tag='VBN' >divided</word>
+       <phrase id='41556348' tag='PP' >
+        <word id='47656812' tag='IN' >into</word>
+        <phrase id='49366500' tag='NP' >
+         <phrase id='51146904' tag='NP' >
+          <word id='40652496' tag='CD' >two</word>
+          <word id='43246848' tag='JJ' >distinct</word>
+          <word id='47015136' tag='NNS' >structures</word>
+         </phrase>
+         <punctuation id='48980988' tag=':' >:</punctuation>
+         <phrase id='50784528' tag='NP' >
+          <phrase id='28196208' tag='NP' >
+           <word id='41931180' tag='DT' >the</word>
+           <word id='47016576' tag='JJ' >main</word>
+           <word id='49096128' tag='NN' >olfactory</word>
+           <word id='51042516' tag='NN' >bulb</word>
+          </phrase>
+          <word id='40923264' tag='CC' >and</word>
+          <phrase id='41676420' tag='NP' >
+           <word id='47602620' tag='DT' >the</word>
+           <word id='49527000' tag='JJ' >accessory</word>
+           <word id='51402456' tag='NN' >olfactory</word>
+           <word id='42193548' tag='NN' >bulb</word>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='41501748' tag='.' >.</punctuation>
+    </sentence>
+   </paragraph>
+   <paragraph id='28098168'>
+    <sentence id='28095564' tag_set=':penn' tag='S' >
+     <phrase id='47608008' tag='NP' >
+      <word id='49264968' tag='DT' >The</word>
+      <word id='50905908' tag='JJ' >main</word>
+      <word id='52425420' tag='NN' >olfactory</word>
+      <word id='41263524' tag='NN' >bulb</word>
+     </phrase>
+     <phrase id='42675768' tag='VP' >
+      <word id='46951068' tag='VBZ' >has</word>
+      <phrase id='48681624' tag='NP' >
+       <word id='50485008' tag='DT' >a</word>
+       <word id='52036656' tag='JJ' >multi-layered</word>
+       <word id='40712436' tag='JJ' >cellular</word>
+       <word id='41932404' tag='NN' >architecture</word>
+      </phrase>
+     </phrase>
+     <punctuation id='46692072' tag='.' >.</punctuation>
+    </sentence>
+    <phrase id='28093644' tag_set=':penn' tag='P' >
+     <word id='48662532' tag='IN' >In</word>
+     <phrase id='50299236' tag='NP' >
+      <phrase id='51749712' tag='NP' >
+       <word id='28020324' tag='NN' >order</word>
+      </phrase>
+      <phrase id='43633032' tag='PP' >
+       <word id='46248924' tag='IN' >from</word>
+       <phrase id='48102420' tag='NP' >
+        <phrase id='49981884' tag='NP' >
+         <word id='51599244' tag='NN' >surface</word>
+        </phrase>
+        <phrase id='40724568' tag='PP' >
+         <word id='42625632' tag='TO' >to</word>
+         <phrase id='47017296' tag='NP' >
+          <phrase id='49044768' tag='NP' >
+           <word id='50994300' tag='DT' >the</word>
+           <word id='40752912' tag='NN' >center</word>
+          </phrase>
+          <phrase id='42675504' tag='NP' >
+           <phrase id='47301552' tag='NP' >
+            <word id='49372452' tag='DT' >the</word>
+            <word id='51301776' tag='NNS' >layers</word>
+           </phrase>
+           <phrase id='42027060' tag='VP' >
+            <word id='46028820' tag='VBP' >are</word>
+           </phrase>
+          </phrase>
+          <punctuation id='48079944' tag=':' >:</punctuation>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+    </phrase>
+   </paragraph>
+   <paragraph id='28095852'>
+    <sentence id='28028052' tag_set=':penn' tag='S' >
+     <phrase id='50141964' tag='NP' >
+      <word id='51595392' tag='DT' >The</word>
+      <word id='40751544' tag='JJ' >olfactory</word>
+      <word id='41921436' tag='NN' >bulb</word>
+     </phrase>
+     <phrase id='46640304' tag='VP' >
+      <phrase id='48413184' tag='VP' >
+       <word id='50240268' tag='VBZ' >transmits</word>
+       <phrase id='51704736' tag='NP' >
+        <word id='37883424' tag='NN' >smell</word>
+        <word id='45866580' tag='NN' >information</word>
+       </phrase>
+       <phrase id='46601712' tag='PP' >
+        <word id='48529692' tag='IN' >from</word>
+        <phrase id='50347608' tag='NP' >
+         <phrase id='51994692' tag='NP' >
+          <word id='42173244' tag='DT' >the</word>
+          <word id='45931872' tag='NN' >nose</word>
+         </phrase>
+         <phrase id='47890824' tag='PP' >
+          <word id='49936932' tag='TO' >to</word>
+          <phrase id='51545676' tag='NP' >
+           <word id='42365592' tag='DT' >the</word>
+           <word id='46024536' tag='NN' >brain</word>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='47826336' tag=',' >,</punctuation>
+      <word id='49506804' tag='CC' >and</word>
+      <phrase id='51054456' tag='VP' >
+       <word id='27848784' tag='VBZ' >is</word>
+       <phrase id='43323432' tag='ADVP' >
+        <word id='46240824' tag='RB' >thus</word>
+       </phrase>
+       <phrase id='48093288' tag='ADJP' >
+        <word id='49992276' tag='JJ' >necessary</word>
+        <phrase id='51541236' tag='PP' >
+         <word id='40772340' tag='IN' >for</word>
+         <phrase id='42629412' tag='NP' >
+          <phrase id='47211048' tag='NP' >
+           <word id='49253160' tag='DT' >a</word>
+           <word id='51156228' tag='JJ' >proper</word>
+           <word id='41074476' tag='NN' >sense</word>
+          </phrase>
+          <phrase id='41690484' tag='PP' >
+           <word id='47654616' tag='IN' >of</word>
+           <phrase id='49736268' tag='NP' >
+            <word id='51552648' tag='NN' >smell</word>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='41449668' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28025760' tag_set=':penn' tag='S' >
+     <phrase id='45877692' tag='S' >
+      <phrase id='47679492' tag='PP' >
+       <word id='49454172' tag='IN' >As</word>
+       <phrase id='51058680' tag='NP' >
+        <word id='52732704' tag='DT' >a</word>
+        <word id='42365856' tag='JJ' >neural</word>
+        <word id='42311340' tag='NN' >circuit</word>
+       </phrase>
+      </phrase>
+      <punctuation id='47680932' tag=',' >,</punctuation>
+      <phrase id='49313964' tag='NP' >
+       <word id='51044412' tag='DT' >the</word>
+       <word id='52547340' tag='NN' >glomerular</word>
+       <word id='42708312' tag='NN' >layer</word>
+      </phrase>
+      <phrase id='42263100' tag='VP' >
+       <word id='43256040' tag='VBZ' >receives</word>
+       <phrase id='49412784' tag='NP' >
+        <word id='51147792' tag='JJ' >direct</word>
+        <word id='27851568' tag='NN' >input</word>
+       </phrase>
+       <phrase id='43310448' tag='PP' >
+        <word id='46241640' tag='IN' >from</word>
+        <phrase id='48151104' tag='NP' >
+         <word id='50133528' tag='JJ' >olfactory</word>
+         <word id='51701100' tag='NNS' >nerves</word>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='40755264' tag=',' >,</punctuation>
+     <phrase id='44019288' tag='VP' >
+      <word id='46701792' tag='VBD' >made</word>
+      <phrase id='48460368' tag='PRT' >
+       <word id='50290452' tag='RP' >up</word>
+      </phrase>
+      <phrase id='51708960' tag='PP' >
+       <word id='27989124' tag='IN' >of</word>
+       <phrase id='43681968' tag='NP' >
+        <word id='46387500' tag='DT' >the</word>
+        <word id='48303432' tag='NNS' >axons</word>
+       </phrase>
+      </phrase>
+      <phrase id='50053488' tag='PP' >
+       <word id='51555408' tag='IN' >from</word>
+       <phrase id='40466340' tag='NP' >
+        <phrase id='45863388' tag='NP' >
+         <phrase id='46756560' tag='QP' >
+          <word id='48799872' tag='RB' >approximately</word>
+          <word id='50735508' tag='CD' >ten</word>
+          <word id='27967872' tag='CD' >million</word>
+         </phrase>
+         <word id='45554256' tag='JJ' >olfactory</word>
+         <word id='46594524' tag='NN' >receptor</word>
+         <word id='48567936' tag='NNS' >neurons</word>
+        </phrase>
+        <phrase id='50350824' tag='PP' >
+         <word id='52114176' tag='IN' >in</word>
+         <phrase id='42552732' tag='NP' >
+          <word id='46075416' tag='DT' >the</word>
+          <word id='48139584' tag='NN' >olfactory</word>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <phrase id='49880424' tag='NP' >
+      <phrase id='51291312' tag='NP' >
+       <word id='28103592' tag='NN' >mucosa</word>
+      </phrase>
+      <punctuation id='44054436' tag=',' >,</punctuation>
+      <phrase id='46330416' tag='NP' >
+       <phrase id='48156540' tag='NP' >
+        <word id='50091708' tag='DT' >a</word>
+        <word id='51658524' tag='NN' >region</word>
+       </phrase>
+       <phrase id='37887192' tag='PP' >
+        <word id='45858576' tag='IN' >of</word>
+        <phrase id='46695312' tag='NP' >
+         <word id='48678372' tag='DT' >the</word>
+         <word id='50590620' tag='JJ' >nasal</word>
+         <word id='52278108' tag='NN' >cavity</word>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='42175296' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28023564' tag_set=':penn' tag='S' >
+     <phrase id='46077852' tag='NP' >
+      <phrase id='47878920' tag='NP' >
+       <word id='49745304' tag='DT' >The</word>
+       <word id='51296796' tag='NNS' >ends</word>
+      </phrase>
+      <phrase id='47677200' tag='PP' >
+       <word id='41957844' tag='IN' >of</word>
+       <phrase id='41509272' tag='NP' >
+        <phrase id='47612136' tag='NP' >
+         <word id='49464744' tag='DT' >the</word>
+         <word id='51253164' tag='JJ' >axons</word>
+         <word id='40610748' tag='NN' >cluster</word>
+        </phrase>
+        <phrase id='43997988' tag='PP' >
+         <word id='46842456' tag='IN' >in</word>
+         <phrase id='48791508' tag='NP' >
+          <word id='50734728' tag='JJ' >spherical</word>
+          <word id='27934848' tag='NNS' >structures</word>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <phrase id='43279560' tag='VP' >
+      <word id='46082736' tag='VBN' >known</word>
+      <phrase id='47887416' tag='PP' >
+       <word id='49787112' tag='IN' >as</word>
+       <phrase id='51297084' tag='NP' >
+        <word id='27585852' tag='NNS' >glomeruli</word>
+       </phrase>
+      </phrase>
+      <phrase id='42770388' tag='PP' >
+       <word id='45941220' tag='JJ' >such</word>
+      </phrase>
+      <phrase id='47823900' tag='SBAR' >
+       <word id='49731984' tag='IN' >that</word>
+       <phrase id='51193284' tag='S' >
+        <phrase id='27573480' tag='NP' >
+         <word id='43465980' tag='DT' >each</word>
+         <word id='46381656' tag='NNS' >glomerulus</word>
+        </phrase>
+        <phrase id='48287172' tag='VP' >
+         <word id='50241084' tag='VBZ' >receives</word>
+         <phrase id='51845736' tag='NP' >
+          <word id='42024480' tag='NN' >input</word>
+         </phrase>
+         <phrase id='42274284' tag='PP' >
+          <phrase id='47888964' tag='ADVP' >
+           <word id='50004372' tag='RB' >primarily</word>
+          </phrase>
+          <word id='51663180' tag='IN' >from</word>
+          <phrase id='42185712' tag='NP' >
+           <phrase id='45941064' tag='NP' >
+            <word id='48204852' tag='JJ' >olfactory</word>
+            <word id='50300820' tag='NN' >receptor</word>
+            <word id='28057464' tag='NNS' >neurons</word>
+           </phrase>
+           <phrase id='45855972' tag='SBAR' >
+            <phrase id='46941132' tag='WHNP' >
+             <word id='49201440' tag='WDT' >that</word>
+            </phrase>
+            <phrase id='51147936' tag='S' >
+             <phrase id='42019944' tag='VP' >
+              <word id='46184520' tag='VBP' >express</word>
+              <phrase id='48458568' tag='NP' >
+               <word id='50739960' tag='DT' >the</word>
+               <word id='42021180' tag='JJ' >same</word>
+               <word id='46199532' tag='NN' >olfactory</word>
+               <word id='48615984' tag='NN' >receptor</word>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='50297100' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28021344' tag_set=':penn' tag='S' >
+     <phrase id='50743800' tag='NP' >
+      <phrase id='42707256' tag='NP' >
+       <word id='45931884' tag='DT' >The</word>
+       <word id='47831160' tag='JJ' >glomeruli</word>
+       <word id='49726320' tag='NN' >layer</word>
+      </phrase>
+      <phrase id='51199380' tag='PP' >
+       <word id='47666820' tag='IN' >of</word>
+       <phrase id='42558864' tag='NP' >
+        <word id='45932712' tag='DT' >the</word>
+        <word id='47935320' tag='JJ' >olfactory</word>
+        <word id='49886988' tag='NN' >bulb</word>
+       </phrase>
+      </phrase>
+     </phrase>
+     <phrase id='51298056' tag='VP' >
+      <word id='27570576' tag='VBZ' >is</word>
+      <phrase id='42770688' tag='NP' >
+       <phrase id='45935184' tag='NP' >
+        <word id='47932128' tag='DT' >the</word>
+        <word id='49884012' tag='JJ' >first</word>
+        <word id='51491496' tag='NN' >level</word>
+       </phrase>
+       <phrase id='28083600' tag='PP' >
+        <word id='43977792' tag='IN' >of</word>
+        <phrase id='46603956' tag='NP' >
+         <word id='48613860' tag='JJ' >synaptic</word>
+         <word id='50497176' tag='NN' >processing</word>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='51992484' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28019136' tag_set=':penn' tag='S' >
+     <phrase id='41419656' tag='NP' >
+      <punctuation id='41622456' tag='NNP' >[</punctuation>
+      <number id='47215416' tag='CD' >1</number>
+     </phrase>
+     <phrase id='48877248' tag='VP' >
+      <punctuation id='50601744' tag='VBD' >]</punctuation>
+      <phrase id='52120416' tag='SBAR' >
+       <phrase id='28164408' tag='S' >
+        <phrase id='45858144' tag='NP' >
+         <word id='46766796' tag='DT' >The</word>
+         <word id='48781224' tag='NN' >glomeruli</word>
+         <word id='50690916' tag='NN' >layer</word>
+        </phrase>
+        <phrase id='52287912' tag='VP' >
+         <word id='42774144' tag='VBZ' >represents</word>
+         <phrase id='46085520' tag='NP' >
+          <phrase id='48147180' tag='NP' >
+           <word id='50247648' tag='DT' >a</word>
+           <word id='52073436' tag='JJ' >spatial</word>
+           <word id='43322040' tag='NN' >odor</word>
+           <word id='46456224' tag='NN' >map</word>
+          </phrase>
+          <phrase id='48476280' tag='VP' >
+           <word id='50553648' tag='VBN' >organized</word>
+           <phrase id='28052952' tag='PP' >
+            <word id='41915232' tag='IN' >by</word>
+            <phrase id='47055876' tag='NP' >
+             <phrase id='49308348' tag='NP' >
+              <word id='51399996' tag='NN' >chemical</word>
+              <word id='43282800' tag='NN' >structure</word>
+             </phrase>
+             <phrase id='46505448' tag='PP' >
+              <word id='48871404' tag='IN' >of</word>
+              <phrase id='50980188' tag='NP' >
+               <phrase id='42544212' tag='NP' >
+                <word id='46450524' tag='NNS' >odorants</word>
+               </phrase>
+               <phrase id='48797316' tag='PP' >
+                <word id='51106956' tag='IN' >like</word>
+                <phrase id='43884348' tag='NP' >
+                 <word id='47064096' tag='JJ' >functional</word>
+                 <word id='49727484' tag='NN' >group</word>
+                 <word id='40730664' tag='CC' >and</word>
+                 <word id='41569500' tag='NN' >carbon</word>
+                 <word id='48297540' tag='NN' >chain</word>
+                 <word id='50691000' tag='NN' >length</word>
+                </phrase>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='40865724' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28016952' tag_set=':penn' tag='S' >
+     <phrase id='41684112' tag='NP' >
+      <word id='47342592' tag='DT' >This</word>
+      <word id='49050588' tag='JJ' >spatial</word>
+      <word id='50786112' tag='NN' >map</word>
+     </phrase>
+     <phrase id='52240572' tag='VP' >
+      <word id='28086636' tag='VBZ' >is</word>
+      <phrase id='43899012' tag='VP' >
+       <word id='46448136' tag='VBN' >divided</word>
+       <phrase id='48303864' tag='PP' >
+        <word id='50241360' tag='IN' >into</word>
+        <phrase id='51805728' tag='NP' >
+         <phrase id='40721424' tag='NP' >
+          <word id='42688296' tag='NNS' >zones</word>
+          <word id='47433912' tag='CC' >and</word>
+          <word id='49360164' tag='NNS' >clusters</word>
+         </phrase>
+         <punctuation id='51194496' tag=',' >,</punctuation>
+         <phrase id='40649604' tag='SBAR' >
+          <phrase id='42617124' tag='WHNP' >
+           <word id='47346696' tag='WDT' >which</word>
+          </phrase>
+          <phrase id='49267128' tag='S' >
+           <phrase id='51240696' tag='VP' >
+            <word id='41075124' tag='VBP' >represent</word>
+            <phrase id='41519112' tag='NP' >
+             <phrase id='48021756' tag='NP' >
+              <word id='50242956' tag='JJ' >similar</word>
+              <word id='37879572' tag='NNS' >glomeruli</word>
+             </phrase>
+             <word id='42674112' tag='CC' >and</word>
+             <phrase id='47498004' tag='ADVP' >
+              <word id='49875408' tag='RB' >therefore</word>
+             </phrase>
+             <phrase id='27579972' tag='NP' >
+              <word id='43977960' tag='JJ' >similar</word>
+              <word id='47021292' tag='NNS' >odors</word>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='48777012' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28014684' tag_set=':penn' tag='S' >
+     <phrase id='50786568' tag='NP' >
+      <phrase id='52296756' tag='NP' >
+       <word id='42162960' tag='CD' >One</word>
+       <word id='41575752' tag='NN' >cluster</word>
+      </phrase>
+      <phrase id='47610156' tag='PP' >
+       <word id='49413624' tag='IN' >in</word>
+       <phrase id='51099912' tag='NP' >
+        <word id='52733280' tag='NN' >particular</word>
+       </phrase>
+      </phrase>
+     </phrase>
+     <phrase id='42178248' tag='VP' >
+      <word id='41556804' tag='VBZ' >is</word>
+      <phrase id='47561412' tag='VP' >
+       <word id='49319424' tag='VBN' >associated</word>
+       <phrase id='51049716' tag='PP' >
+        <word id='52684956' tag='IN' >with</word>
+        <phrase id='42029508' tag='NP' >
+         <phrase id='42310788' tag='NP' >
+          <word id='48027180' tag='JJ' >rank</word>
+          <punctuation id='50050116' tag=',' >,</punctuation>
+          <word id='51797604' tag='JJ' >spoiled</word>
+          <word id='41941848' tag='NNS' >smells</word>
+         </phrase>
+         <phrase id='42267900' tag='SBAR' >
+          <phrase id='47889468' tag='WHNP' >
+           <word id='50042016' tag='WDT' >which</word>
+          </phrase>
+          <phrase id='51749496' tag='S' >
+           <phrase id='42170976' tag='VP' >
+            <word id='46134972' tag='VBP' >are</word>
+            <phrase id='48342972' tag='VP' >
+             <word id='50543412' tag='VBN' >represented</word>
+             <phrase id='40621500' tag='PP' >
+              <word id='41628816' tag='IN' >by</word>
+              <phrase id='47766312' tag='NP' >
+               <word id='50142480' tag='JJ' >certain</word>
+               <word id='40631592' tag='NN' >chemical</word>
+               <word id='41685708' tag='NNS' >characteristics</word>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='47289276' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28012368' tag_set=':penn' tag='S' >
+     <phrase id='49258320' tag='NP' >
+      <word id='50982948' tag='DT' >This</word>
+      <word id='52491528' tag='NN' >classification</word>
+     </phrase>
+     <phrase id='41593284' tag='VP' >
+      <word id='41681508' tag='MD' >may</word>
+      <phrase id='47302416' tag='VP' >
+       <word id='49152132' tag='VB' >be</word>
+       <phrase id='50863680' tag='ADJP' >
+        <word id='52541220' tag='JJ' >evolutionary</word>
+        <phrase id='41594892' tag='S' >
+         <phrase id='41510256' tag='VP' >
+          <word id='47822352' tag='TO' >to</word>
+          <phrase id='49889568' tag='VP' >
+           <word id='51656016' tag='VB' >help</word>
+           <phrase id='41773536' tag='VP' >
+            <word id='45934020' tag='VB' >identify</word>
+            <phrase id='48153120' tag='NP' >
+             <phrase id='50350944' tag='NP' >
+              <word id='40466448' tag='NN' >food</word>
+             </phrase>
+             <phrase id='42631272' tag='SBAR' >
+              <phrase id='47600532' tag='WHNP' >
+               <word id='50004120' tag='WDT' >that</word>
+              </phrase>
+              <phrase id='28031544' tag='S' >
+               <phrase id='43245396' tag='VP' >
+                <word id='47659068' tag='VBZ' >is</word>
+                <phrase id='50048220' tag='ADJP' >
+                 <phrase id='40817868' tag='ADVP' >
+                  <word id='45941784' tag='RB' >no</word>
+                  <word id='48626664' tag='RBR' >longer</word>
+                 </phrase>
+                 <word id='51000720' tag='JJ' >good</word>
+                 <phrase id='45550488' tag='S' >
+                  <phrase id='47295552' tag='VP' >
+                   <word id='49992048' tag='TO' >to</word>
+                   <phrase id='41613408' tag='VP' >
+                    <word id='46443744' tag='VB' >eat</word>
+                   </phrase>
+                  </phrase>
+                 </phrase>
+                </phrase>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='48210528' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28010244' tag_set=':penn' tag='S' >
+     <phrase id='50305608' tag='NP' >
+      <phrase id='51799332' tag='NP' >
+       <word id='41417004' tag='DT' >The</word>
+       <word id='41694888' tag='JJ' >spatial</word>
+       <word id='47487648' tag='NN' >map</word>
+      </phrase>
+      <phrase id='49145556' tag='PP' >
+       <word id='50940036' tag='IN' >of</word>
+       <phrase id='52533492' tag='NP' >
+        <word id='41792832' tag='DT' >the</word>
+        <word id='41561604' tag='JJ' >glomeruli</word>
+        <word id='47756088' tag='NN' >layer</word>
+       </phrase>
+      </phrase>
+     </phrase>
+     <phrase id='49317912' tag='VP' >
+      <word id='51047868' tag='MD' >may</word>
+      <phrase id='52546860' tag='VP' >
+       <word id='41600748' tag='VB' >be</word>
+       <phrase id='41733384' tag='VP' >
+        <word id='47559036' tag='VBN' >used</word>
+        <phrase id='49414428' tag='PP' >
+         <word id='51253296' tag='IN' >for</word>
+         <phrase id='28005456' tag='NP' >
+          <phrase id='43977552' tag='NP' >
+           <word id='46895220' tag='NN' >perception</word>
+          </phrase>
+          <phrase id='48946740' tag='PP' >
+           <word id='50992764' tag='IN' >of</word>
+           <phrase id='40622460' tag='NP' >
+            <word id='42690660' tag='NN' >odor</word>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+        <phrase id='47289408' tag='PP' >
+         <word id='49203336' tag='IN' >in</word>
+         <phrase id='51058296' tag='NP' >
+          <word id='28184628' tag='DT' >the</word>
+          <word id='41930196' tag='JJ' >olfactory</word>
+          <word id='47064732' tag='NN' >cortex</word>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='48881208' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28008240' tag_set=':penn' tag='S' >
+     <phrase id='50940852' tag='NP' >
+      <phrase id='52495428' tag='NP' >
+       <punctuation id='41410116' tag='NNP' >[</punctuation>
+       <number id='41680884' tag='CD' >2</number>
+      </phrase>
+      <phrase id='47343240' tag='VP' >
+       <punctuation id='49191600' tag='VBG' >]</punctuation>
+       <phrase id='50900736' tag='NP' >
+        <phrase id='52547940' tag='NP' >
+         <word id='42172908' tag='DT' >The</word>
+         <word id='45929160' tag='JJ' >next</word>
+         <word id='48038220' tag='NN' >level</word>
+        </phrase>
+        <phrase id='49940964' tag='PP' >
+         <word id='51644280' tag='IN' >of</word>
+         <phrase id='40788852' tag='NP' >
+          <phrase id='41624820' tag='NP' >
+           <word id='47613900' tag='JJ' >synaptic</word>
+           <word id='49807080' tag='NN' >processing</word>
+          </phrase>
+          <phrase id='51552804' tag='PP' >
+           <word id='41612748' tag='IN' >in</word>
+           <phrase id='42276828' tag='NP' >
+            <word id='48100944' tag='DT' >the</word>
+            <word id='50283504' tag='JJ' >olfactory</word>
+            <word id='27839880' tag='NN' >bulb</word>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <phrase id='42951144' tag='VP' >
+      <word id='46031820' tag='VBZ' >occurs</word>
+      <phrase id='47931576' tag='PP' >
+       <word id='49881576' tag='IN' >in</word>
+       <phrase id='51403164' tag='NP' >
+        <word id='46085748' tag='DT' >the</word>
+        <word id='42954732' tag='JJ' >external</word>
+        <word id='46184604' tag='NN' >plexiform</word>
+        <word id='48153552' tag='NN' >layer</word>
+       </phrase>
+      </phrase>
+      <punctuation id='49997352' tag=',' >,</punctuation>
+      <phrase id='51543204' tag='PP' >
+       <word id='27910440' tag='IN' >between</word>
+       <phrase id='43496124' tag='NP' >
+        <phrase id='46390668' tag='NP' >
+         <word id='48462012' tag='DT' >the</word>
+         <word id='50431440' tag='NN' >glomerular</word>
+         <word id='52168968' tag='NN' >layer</word>
+        </phrase>
+        <word id='41593908' tag='CC' >and</word>
+        <phrase id='41462244' tag='NP' >
+         <word id='47758752' tag='DT' >the</word>
+         <word id='49790460' tag='JJ' >mitral</word>
+         <word id='51494424' tag='NN' >cell</word>
+         <word id='40630596' tag='NN' >layer</word>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='45851724' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28006248' tag_set=':penn' tag='S' >
+     <phrase id='46883916' tag='NP' >
+      <word id='48729888' tag='DT' >The</word>
+      <word id='50498604' tag='JJ' >external</word>
+      <word id='52110792' tag='NN' >plexiform</word>
+      <word id='27879000' tag='NN' >layer</word>
+     </phrase>
+     <phrase id='43096536' tag='VP' >
+      <word id='46126680' tag='VBZ' >contains</word>
+      <phrase id='47940972' tag='NP' >
+       <phrase id='49886076' tag='NP' >
+        <word id='51537852' tag='NNS' >astrocytes</word>
+       </phrase>
+       <punctuation id='22910952' tag=',' >,</punctuation>
+       <phrase id='42764328' tag='NP' >
+        <word id='46126212' tag='NNS' >interneurons</word>
+       </phrase>
+       <word id='48082332' tag='CC' >and</word>
+       <phrase id='49939716' tag='NP' >
+        <word id='51609636' tag='DT' >some</word>
+        <word id='28110108' tag='JJ' >mitral</word>
+        <word id='43993032' tag='NNS' >cells</word>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='46585128' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28003776' tag_set=':penn' tag='S' >
+     <phrase id='48681024' tag='NP' >
+      <word id='50490552' tag='PRP' >It</word>
+     </phrase>
+     <phrase id='51980940' tag='VP' >
+      <word id='27653928' tag='VBZ' >does</word>
+      <word id='42949872' tag='RB' >not</word>
+      <phrase id='45982368' tag='VP' >
+       <word id='48025116' tag='VB' >contain</word>
+       <phrase id='49928568' tag='NP' >
+        <phrase id='51540600' tag='NP' >
+         <word id='27993852' tag='JJ' >many</word>
+         <word id='45869904' tag='NN' >cell</word>
+         <word id='46696056' tag='NNS' >bodies</word>
+        </phrase>
+        <punctuation id='48679716' tag=',' >,</punctuation>
+        <word id='50602344' tag='RB' >rather</word>
+        <word id='52275240' tag='RB' >mostly</word>
+        <phrase id='41789508' tag='NP' >
+         <phrase id='41573292' tag='NP' >
+          <word id='47944116' tag='NNS' >dendrites</word>
+         </phrase>
+         <phrase id='49981260' tag='PP' >
+          <word id='51742716' tag='IN' >of</word>
+          <phrase id='41075676' tag='NP' >
+           <phrase id='41518476' tag='NP' >
+            <word id='48022320' tag='JJ' >mitral</word>
+            <word id='50193972' tag='NNS' >cells</word>
+           </phrase>
+           <word id='52114524' tag='CC' >and</word>
+           <phrase id='43316940' tag='NP' >
+            <word id='46590528' tag='JJ' >GABAergic</word>
+            <word id='48871128' tag='NN' >granule</word>
+            <word id='50939292' tag='NNS' >cells</word>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='27915552' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='28001844' tag_set=':penn' tag='S' >
+     <phrase id='43934952' tag='NP' >
+      <phrase id='46498152' tag='QP' >
+       <punctuation id='48464664' tag='CD' >[</punctuation>
+       <number id='50357088' tag='CD' >3</number>
+      </phrase>
+      <punctuation id='47228232' tag='NNS' >]</punctuation>
+     </phrase>
+     <phrase id='40595172' tag='VP' >
+      <word id='42733236' tag='VBP' >are</word>
+      <phrase id='45875676' tag='ADVP' >
+       <word id='47876640' tag='RB' >also</word>
+      </phrase>
+      <phrase id='49736952' tag='VP' >
+       <word id='51356268' tag='VBN' >permeated</word>
+       <phrase id='52938300' tag='PP' >
+        <word id='42398316' tag='IN' >by</word>
+        <phrase id='45885624' tag='NP' >
+         <word id='48042492' tag='NNS' >dendrites</word>
+        </phrase>
+       </phrase>
+       <phrase id='49945128' tag='PP' >
+        <word id='51595644' tag='IN' >from</word>
+        <phrase id='28169004' tag='NP' >
+         <phrase id='44020860' tag='NP' >
+          <word id='47020344' tag='NNS' >neurons</word>
+         </phrase>
+         <phrase id='49051860' tag='VP' >
+          <word id='51050748' tag='VBN' >called</word>
+          <phrase id='28025556' tag='NP' >
+           <phrase id='45860124' tag='NP' >
+            <word id='47151900' tag='JJ' >mitral</word>
+            <word id='49365216' tag='NNS' >cells</word>
+           </phrase>
+           <punctuation id='51354636' tag=',' >,</punctuation>
+           <phrase id='41078532' tag='SBAR' >
+            <phrase id='41580192' tag='WHNP' >
+             <word id='48150600' tag='WDT' >which</word>
+            </phrase>
+            <phrase id='50307720' tag='S' >
+             <phrase id='27948744' tag='ADVP' >
+              <word id='41923152' tag='RB' >in</word>
+             </phrase>
+             <phrase id='47348472' tag='VP' >
+              <word id='49790628' tag='VBP' >turn</word>
+              <phrase id='41927292' tag='NP' >
+               <word id='43939428' tag='NN' >output</word>
+              </phrase>
+              <phrase id='47009208' tag='PP' >
+               <word id='49510404' tag='TO' >to</word>
+               <phrase id='27654840' tag='NP' >
+                <word id='44007876' tag='DT' >the</word>
+                <word id='47546160' tag='JJ' >olfactory</word>
+                <word id='50043972' tag='NN' >cortex</word>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='51496404' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='27999936' tag_set=':penn' tag='S' >
+     <phrase id='42772608' tag='NP' >
+      <word id='45985056' tag='JJ' >Numerous</word>
+      <word id='47925876' tag='NN' >interneuron</word>
+      <word id='49796316' tag='NNS' >types</word>
+     </phrase>
+     <phrase id='51251988' tag='VP' >
+      <word id='52853076' tag='VBP' >exist</word>
+      <phrase id='40746780' tag='PP' >
+       <word id='42636720' tag='IN' >in</word>
+       <phrase id='47014632' tag='NP' >
+        <phrase id='49045728' tag='NP' >
+         <word id='50994840' tag='DT' >the</word>
+         <word id='52685076' tag='JJ' >olfactory</word>
+         <word id='42766716' tag='NN' >bulb</word>
+        </phrase>
+        <phrase id='46087608' tag='PP' >
+         <word id='48195036' tag='VBG' >including</word>
+         <phrase id='50199156' tag='NP' >
+          <phrase id='51993588' tag='NP' >
+           <phrase id='41771676' tag='NP' >
+            <word id='46026060' tag='NN' >periglomerular</word>
+            <word id='48354852' tag='NNS' >cells</word>
+           </phrase>
+           <phrase id='50444724' tag='SBAR' >
+            <phrase id='27903288' tag='WHNP' >
+             <word id='44004612' tag='WDT' >which</word>
+            </phrase>
+            <phrase id='47067924' tag='S' >
+             <phrase id='49357716' tag='VP' >
+              <word id='51557808' tag='VBP' >synapse</word>
+              <phrase id='42954960' tag='PP' >
+               <word id='46702056' tag='IN' >within</word>
+               <word id='49147320' tag='CC' >and</word>
+               <word id='51399468' tag='IN' >between</word>
+               <phrase id='43491384' tag='NP' >
+                <word id='46958736' tag='NNS' >glomeruli</word>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+          <punctuation id='49096884' tag=',' >,</punctuation>
+          <word id='51100032' tag='CC' >and</word>
+          <phrase id='40810776' tag='NP' >
+           <phrase id='41741556' tag='NP' >
+            <word id='47930088' tag='JJ' >granule</word>
+            <word id='50180940' tag='NNS' >cells</word>
+           </phrase>
+           <phrase id='51988116' tag='SBAR' >
+            <phrase id='43091808' tag='WHNP' >
+             <word id='46594080' tag='WDT' >which</word>
+            </phrase>
+            <phrase id='48796404' tag='S' >
+             <phrase id='50988468' tag='VP' >
+              <word id='41082888' tag='VBP' >synapse</word>
+              <phrase id='45888204' tag='PP' >
+               <word id='48416292' tag='IN' >with</word>
+               <phrase id='50745852' tag='NP' >
+                <word id='41775900' tag='JJ' >mitral</word>
+                <word id='46291116' tag='NNS' >cells</word>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='48140004' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='27997956' tag_set=':penn' tag='S' >
+     <phrase id='50199408' tag='NP' >
+      <word id='51796872' tag='DT' >The</word>
+      <word id='40610328' tag='JJ' >granule</word>
+      <word id='44000220' tag='NN' >cell</word>
+      <word id='46751016' tag='NN' >layer</word>
+     </phrase>
+     <phrase id='48523656' tag='VP' >
+      <word id='50395644' tag='VBZ' >is</word>
+      <phrase id='47269572' tag='NP' >
+       <phrase id='27614832' tag='NP' >
+        <word id='43282572' tag='DT' >the</word>
+        <word id='46285092' tag='JJS' >deepest</word>
+        <word id='48351900' tag='NN' >layer</word>
+       </phrase>
+       <phrase id='50237088' tag='PP' >
+        <word id='47271492' tag='IN' >in</word>
+        <phrase id='40658472' tag='NP' >
+         <word id='42635340' tag='DT' >the</word>
+         <word id='47302716' tag='JJ' >olfactory</word>
+         <word id='49301568' tag='NN' >bulb</word>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='50990772' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='27995892' tag_set=':penn' tag='S' >
+     <phrase id='47664168' tag='NP' >
+      <word id='41776068' tag='PRP' >It</word>
+     </phrase>
+     <phrase id='41689836' tag='VP' >
+      <word id='47495652' tag='VBZ' >is</word>
+      <phrase id='49207236' tag='VP' >
+       <word id='51039552' tag='VBN' >made</word>
+       <phrase id='52672776' tag='PRT' >
+        <word id='40863444' tag='RP' >up</word>
+       </phrase>
+       <phrase id='41311848' tag='PP' >
+        <word id='47433972' tag='IN' >of</word>
+        <phrase id='49304520' tag='NP' >
+         <phrase id='51196308' tag='NP' >
+          <word id='27924720' tag='JJ' >dendrodendritic</word>
+          <word id='45547932' tag='NN' >granule</word>
+          <word id='46762848' tag='NNS' >cells</word>
+         </phrase>
+         <phrase id='48867132' tag='SBAR' >
+          <phrase id='50841360' tag='WHNP' >
+           <word id='27988488' tag='WDT' >that</word>
+          </phrase>
+          <phrase id='43934220' tag='S' >
+           <phrase id='46892592' tag='VP' >
+            <word id='49197744' tag='VBP' >synapse</word>
+            <phrase id='51255720' tag='PP' >
+             <word id='40929480' tag='TO' >to</word>
+             <phrase id='42260832' tag='NP' >
+              <word id='48306336' tag='DT' >the</word>
+              <word id='50597076' tag='JJ' >mitral</word>
+              <word id='40690020' tag='NN' >cell</word>
+              <word id='41738892' tag='NN' >layer</word>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='47485068' tag='.' >.</punctuation>
+    </sentence>
+    <fragment id='27994044' tag_set=':penn' tag='F' >
+     <phrase id='49363092' tag='VP' >
+      <punctuation id='51095244' tag='VBZ' >[</punctuation>
+     </phrase>
+     <phrase id='52586256' tag='NP' >
+      <number id='41072316' tag='CD' >4</number>
+      <punctuation id='41360940' tag='NN' >]</punctuation>
+     </phrase>
+    </fragment>
+   </paragraph>
+   <paragraph id='28093608'>
+    <sentence id='27975948' tag_set=':penn' tag='S' >
+     <phrase id='47813040' tag='PP' >
+      <word id='49740648' tag='IN' >As</word>
+      <phrase id='51251136' tag='NP' >
+       <word id='52944012' tag='DT' >a</word>
+       <word id='40860888' tag='JJ' >neural</word>
+       <word id='41364660' tag='NN' >circuit</word>
+      </phrase>
+     </phrase>
+     <punctuation id='47213436' tag=',' >,</punctuation>
+     <phrase id='48941424' tag='S' >
+      <phrase id='50734992' tag='NP' >
+       <word id='52381776' tag='DT' >the</word>
+       <word id='37885620' tag='JJ' >olfactory</word>
+       <word id='44012388' tag='NN' >bulb</word>
+      </phrase>
+      <phrase id='46703196' tag='VP' >
+       <word id='48721548' tag='VBZ' >has</word>
+       <phrase id='50548272' tag='NP' >
+        <phrase id='52280160' tag='NP' >
+         <word id='40785900' tag='CD' >one</word>
+         <word id='41360148' tag='NN' >source</word>
+        </phrase>
+        <phrase id='47442888' tag='PP' >
+         <word id='49448244' tag='IN' >of</word>
+         <phrase id='51303204' tag='NP' >
+          <word id='28104552' tag='JJ' >sensory</word>
+          <word id='44014764' tag='NN' >input</word>
+          <punctuation id='47065116' tag='NN' >(</punctuation>
+          <word id='49247436' tag='NNS' >axons</word>
+         </phrase>
+        </phrase>
+       </phrase>
+       <phrase id='51043104' tag='PP' >
+        <word id='27658272' tag='IN' >from</word>
+        <phrase id='43273500' tag='NP' >
+         <phrase id='46380204' tag='NP' >
+          <word id='48567576' tag='JJ' >olfactory</word>
+          <word id='50609232' tag='NN' >receptor</word>
+          <word id='52476324' tag='NNS' >neurons</word>
+         </phrase>
+         <phrase id='42706404' tag='PP' >
+          <word id='46239084' tag='IN' >of</word>
+          <phrase id='48412824' tag='NP' >
+           <word id='50548956' tag='DT' >the</word>
+           <word id='27583872' tag='JJ' >olfactory</word>
+           <word id='43629900' tag='NN' >epithelium</word>
+           <punctuation id='46691616' tag='NN' >)</punctuation>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='48515088' tag=',' >,</punctuation>
+     <word id='50292384' tag='CC' >and</word>
+     <phrase id='51791940' tag='S' >
+      <phrase id='27878580' tag='NP' >
+       <word id='43473696' tag='CD' >one</word>
+       <word id='46379676' tag='NN' >output</word>
+      </phrase>
+      <phrase id='48288360' tag='VP' >
+       <punctuation id='50197200' tag='VBZ' >(</punctuation>
+       <phrase id='51805212' tag='NP' >
+        <word id='28003236' tag='JJ' >mitral</word>
+        <word id='45553824' tag='NN' >cell</word>
+        <word id='46649052' tag='NNS' >axons</word>
+       </phrase>
+       <phrase id='48615708' tag='ADVP' >
+        <punctuation id='50546460' tag='RB' >)</punctuation>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='52130736' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='27973416' tag_set=':penn' tag='S' >
+     <phrase id='40686384' tag='PP' >
+      <word id='43242552' tag='IN' >As</word>
+      <phrase id='46899288' tag='NP' >
+       <word id='48879036' tag='DT' >a</word>
+       <word id='50738136' tag='NN' >result</word>
+      </phrase>
+     </phrase>
+     <punctuation id='52278144' tag=',' >,</punctuation>
+     <phrase id='27862116' tag='NP' >
+      <word id='43285752' tag='PRP' >it</word>
+     </phrase>
+     <phrase id='46123272' tag='VP' >
+      <word id='48080688' tag='VBZ' >is</word>
+      <phrase id='49941828' tag='ADVP' >
+       <word id='51600216' tag='RB' >generally</word>
+      </phrase>
+      <phrase id='53117688' tag='VP' >
+       <word id='41607384' tag='VBN' >assumed</word>
+       <phrase id='41504040' tag='SBAR' >
+        <word id='47767704' tag='IN' >that</word>
+        <phrase id='49745508' tag='S' >
+         <phrase id='51503136' tag='NP' >
+          <word id='28083012' tag='PRP' >it</word>
+         </phrase>
+         <phrase id='45852156' tag='VP' >
+          <word id='47002704' tag='VBZ' >functions</word>
+          <phrase id='49140552' tag='PP' >
+           <word id='51239604' tag='IN' >as</word>
+           <phrase id='28186824' tag='NP' >
+            <phrase id='42631776' tag='NP' >
+             <word id='47655588' tag='DT' >a</word>
+             <word id='50045184' tag='NN' >filter</word>
+            </phrase>
+            <punctuation id='51995676' tag=',' >,</punctuation>
+            <phrase id='43100076' tag='ADJP' >
+             <word id='46639884' tag='RB' >as</word>
+             <word id='49004268' tag='VBN' >opposed</word>
+            </phrase>
+           </phrase>
+          </phrase>
+          <phrase id='50999964' tag='PP' >
+           <word id='40658064' tag='TO' >to</word>
+           <phrase id='41317080' tag='NP' >
+            <phrase id='47657904' tag='NP' >
+             <word id='50038500' tag='DT' >an</word>
+             <word id='52117200' tag='JJ' >associative</word>
+             <word id='43480188' tag='NN' >circuit</word>
+            </phrase>
+            <phrase id='46648044' tag='SBAR' >
+             <phrase id='49001640' tag='WHNP' >
+              <word id='51306420' tag='WDT' >that</word>
+             </phrase>
+             <phrase id='41608344' tag='S' >
+              <phrase id='46121340' tag='VP' >
+               <word id='48670788' tag='VBZ' >has</word>
+               <phrase id='51003264' tag='NP' >
+                <phrase id='41973468' tag='NP' >
+                 <word id='46501632' tag='JJ' >many</word>
+                 <word id='49189800' tag='NNS' >inputs</word>
+                </phrase>
+                <word id='27646380' tag='CC' >and</word>
+                <phrase id='45851568' tag='NP' >
+                 <word id='47603172' tag='JJ' >many</word>
+                 <word id='50199792' tag='NNS' >outputs</word>
+                </phrase>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='51746436' tag='.' >.</punctuation>
+    </sentence>
+    <sentence id='27971628' tag_set=':penn' tag='S' >
+     <phrase id='43322316' tag='ADVP' >
+      <word id='46250316' tag='RB' >However</word>
+     </phrase>
+     <punctuation id='48150096' tag=',' >,</punctuation>
+     <phrase id='49986180' tag='NP' >
+      <word id='51546504' tag='DT' >the</word>
+      <word id='53117892' tag='JJ' >olfactory</word>
+      <word id='40793952' tag='NN' >bulb</word>
+     </phrase>
+     <phrase id='42574068' tag='ADVP' >
+      <word id='46998564' tag='RB' >also</word>
+     </phrase>
+     <phrase id='48793908' tag='VP' >
+      <word id='50676864' tag='VBZ' >receives</word>
+      <phrase id='52281936' tag='NP' >
+       <phrase id='27864240' tag='NP' >
+        <punctuation id='43671240' tag='``' >&quot;</punctuation>
+        <word id='46491096' tag='JJ' >top-down</word>
+        <punctuation id='48563904' tag='&apos;&apos;' >&quot;</punctuation>
+        <word id='50540916' tag='NN' >information</word>
+       </phrase>
+       <phrase id='52190184' tag='PP' >
+        <word id='40757508' tag='IN' >from</word>
+        <phrase id='42680064' tag='NP' >
+         <word id='47483388' tag='JJ' >such</word>
+         <word id='49468236' tag='NN' >brain</word>
+         <word id='51358164' tag='NNS' >areas</word>
+        </phrase>
+       </phrase>
+      </phrase>
+      <phrase id='27593148' tag='PP' >
+       <word id='42936372' tag='IN' >as</word>
+       <phrase id='46132908' tag='NP' >
+        <phrase id='48206808' tag='NP' >
+         <word id='50294136' tag='DT' >the</word>
+         <word id='52122600' tag='NN' >amygdala</word>
+        </phrase>
+        <punctuation id='40697184' tag=',' >,</punctuation>
+        <phrase id='42623712' tag='NP' >
+         <word id='47365764' tag='NN' >neocortex</word>
+        </phrase>
+        <punctuation id='49311288' tag=',' >,</punctuation>
+        <phrase id='51154044' tag='NP' >
+         <word id='27628572' tag='NNS' >hippocampus</word>
+        </phrase>
+        <punctuation id='43271676' tag=',' >,</punctuation>
+        <phrase id='46286520' tag='NP' >
+         <word id='48471108' tag='JJ' >locus</word>
+         <word id='50501556' tag='NNS' >coeruleus</word>
+        </phrase>
+        <punctuation id='52233996' tag=',' >,</punctuation>
+        <word id='40892472' tag='CC' >and</word>
+        <phrase id='41672736' tag='NP' >
+         <word id='47654772' tag='NN' >substantia</word>
+         <word id='49795776' tag='NN' >nigra</word>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='51343008' tag='.' >.</punctuation>
+    </sentence>
+    <phrase id='27969732' tag_set=':penn' tag='P' >
+     <phrase id='53116368' tag='S' >
+      <phrase id='42187116' tag='NP' >
+       <word id='45929928' tag='PRP$' >Its</word>
+       <word id='48020112' tag='JJ' >potential</word>
+       <word id='49985760' tag='NNS' >functions</word>
+      </phrase>
+      <phrase id='51542880' tag='VP' >
+       <word id='53152032' tag='MD' >can</word>
+       <phrase id='42183840' tag='VP' >
+        <word id='45945648' tag='VB' >be</word>
+        <phrase id='48083568' tag='VP' >
+         <word id='50191248' tag='VBN' >placed</word>
+         <phrase id='47273076' tag='PP' >
+          <word id='40739424' tag='IN' >into</word>
+          <phrase id='41628432' tag='NP' >
+           <word id='47752008' tag='CD' >four</word>
+           <word id='49994268' tag='JJ' >non-exclusive</word>
+           <word id='47220948' tag='NNS' >categories</word>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+     <punctuation id='40733904' tag=':' >:</punctuation>
+     <phrase id='41925048' tag='S' >
+      <phrase id='46904196' tag='NP' >
+       <punctuation id='48939396' tag='JJ' >[</punctuation>
+       <word id='50793720' tag='NN' >citation</word>
+      </phrase>
+      <phrase id='52428132' tag='VP' >
+       <word id='28085592' tag='VBD' >needed</word>
+       <phrase id='43937064' tag='NP' >
+        <punctuation id='46760004' tag='NNS' >]</punctuation>
+       </phrase>
+      </phrase>
+     </phrase>
+    </phrase>
+   </paragraph>
+   <list id='28092996'>
+    <title id='28092312'>
+     <phrase id='27957828' tag_set=':penn' tag='P' >
+      <phrase id='48883260' tag='VP' >
+       <word id='50796624' tag='VBG' >discriminating</word>
+       <phrase id='52477968' tag='PP' >
+        <word id='40708260' tag='IN' >among</word>
+        <phrase id='42634044' tag='NP' >
+         <word id='47437212' tag='NNS' >odors</word>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+    </title>
+    <title id='28091532'>
+     <phrase id='27946968' tag_set=':penn' tag='P' >
+      <phrase id='49459200' tag='VP' >
+       <word id='51296160' tag='VBG' >enhancing</word>
+       <phrase id='52943664' tag='NP' >
+        <phrase id='41773176' tag='NP' >
+         <word id='45881436' tag='NN' >sensitivity</word>
+        </phrase>
+        <phrase id='47941308' tag='PP' >
+         <word id='50134692' tag='IN' >of</word>
+         <phrase id='51844224' tag='NP' >
+          <word id='40644756' tag='NN' >odor</word>
+          <word id='42680160' tag='NN' >detection</word>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+    </title>
+    <paragraph id='28090812'>
+     <phrase id='27938556' tag_set=':penn' tag='P' >
+      <phrase id='47555748' tag='VP' >
+       <word id='49511928' tag='VBG' >filtering</word>
+       <phrase id='51250944' tag='PRT' >
+        <word id='52998072' tag='RP' >out</word>
+       </phrase>
+       <phrase id='41942184' tag='NP' >
+        <word id='45879192' tag='JJ' >many</word>
+        <word id='48023736' tag='NN' >background</word>
+        <word id='50048772' tag='NNS' >odors</word>
+       </phrase>
+       <phrase id='51665148' tag='S' >
+        <phrase id='27850308' tag='VP' >
+         <word id='43829328' tag='TO' >to</word>
+         <phrase id='46601796' tag='VP' >
+          <word id='48792768' tag='VB' >enhance</word>
+          <phrase id='50851296' tag='NP' >
+           <phrase id='27551808' tag='NP' >
+            <word id='43832124' tag='DT' >the</word>
+            <word id='46844388' tag='NN' >transmission</word>
+           </phrase>
+           <phrase id='49059360' tag='PP' >
+            <word id='51256356' tag='IN' >of</word>
+            <phrase id='40673016' tag='NP' >
+             <word id='41742576' tag='DT' >a</word>
+             <word id='48046356' tag='JJ' >few</word>
+             <word id='50350056' tag='JJ' >select</word>
+             <word id='27834216' tag='NNS' >odors</word>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+     </phrase>
+    </paragraph>
+    <paragraph id='28089768'>
+     <sentence id='27929232' tag_set=':penn' tag='S' >
+      <phrase id='45549936' tag='S' >
+       <phrase id='46645044' tag='VP' >
+        <word id='48719484' tag='VBG' >permitting</word>
+        <phrase id='50677140' tag='NP' >
+         <word id='52481112' tag='JJR' >higher</word>
+         <word id='40797096' tag='NN' >brain</word>
+         <word id='41685804' tag='NNS' >areas</word>
+        </phrase>
+       </phrase>
+      </phrase>
+      <phrase id='47442192' tag='VP' >
+       <word id='49316988' tag='VBD' >involved</word>
+       <phrase id='51158760' tag='PP' >
+        <word id='52900524' tag='IN' >in</word>
+        <phrase id='41611968' tag='NP' >
+         <word id='42269580' tag='NN' >arousal</word>
+         <word id='48044880' tag='CC' >and</word>
+         <word id='50183136' tag='NN' >attention</word>
+        </phrase>
+       </phrase>
+       <phrase id='51797184' tag='S' >
+        <phrase id='28033140' tag='VP' >
+         <word id='45853596' tag='TO' >to</word>
+         <phrase id='46903080' tag='VP' >
+          <word id='49137144' tag='VB' >modify</word>
+          <phrase id='51147960' tag='NP' >
+           <phrase id='27879252' tag='NP' >
+            <word id='43996488' tag='DT' >the</word>
+            <word id='47148288' tag='NN' >detection</word>
+           </phrase>
+           <word id='49366272' tag='CC' >or</word>
+           <phrase id='51408552' tag='NP' >
+            <phrase id='40762224' tag='NP' >
+             <word id='41560068' tag='DT' >the</word>
+             <word id='48201132' tag='NN' >discrimination</word>
+            </phrase>
+            <phrase id='50432124' tag='PP' >
+             <word id='27829296' tag='IN' >of</word>
+             <phrase id='43978908' tag='NP' >
+              <word id='47308416' tag='NNS' >odors</word>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='49193088' tag='.' >.</punctuation>
+     </sentence>
+    </paragraph>
+    <paragraph id='28086264'>
+     <sentence id='27904368' tag_set=':penn' tag='S' >
+      <phrase id='51421200' tag='SBAR' >
+       <word id='27818016' tag='IN' >While</word>
+       <phrase id='43096944' tag='S' >
+        <phrase id='46333872' tag='NP' >
+         <phrase id='48471696' tag='NP' >
+          <word id='50610144' tag='DT' >all</word>
+         </phrase>
+         <phrase id='52382004' tag='PP' >
+          <word id='41273508' tag='IN' >of</word>
+          <phrase id='41566200' tag='NP' >
+           <word id='48099588' tag='DT' >these</word>
+           <word id='50347296' tag='NNS' >functions</word>
+          </phrase>
+         </phrase>
+        </phrase>
+        <phrase id='52115880' tag='VP' >
+         <word id='40872360' tag='MD' >could</word>
+         <phrase id='41734404' tag='ADVP' >
+          <word id='47830692' tag='RB' >theoretically</word>
+         </phrase>
+         <phrase id='49942260' tag='VP' >
+          <word id='51804300' tag='VB' >arise</word>
+          <phrase id='40641756' tag='PP' >
+           <word id='41361144' tag='IN' >from</word>
+           <phrase id='43257588' tag='NP' >
+            <phrase id='50043000' tag='NP' >
+             <word id='52135104' tag='DT' >the</word>
+             <word id='42566868' tag='JJ' >olfactory</word>
+             <word id='46496688' tag='NN' >bulb</word>
+             <enclitic id='48938688' tag='POS' >&apos;s</enclitic>
+            </phrase>
+            <word id='51108732' tag='NN' >circuit</word>
+            <word id='40668144' tag='NN' >layout</word>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='43238676' tag=',' >,</punctuation>
+      <phrase id='46943496' tag='NP' >
+       <word id='48986484' tag='PRP' >it</word>
+      </phrase>
+      <phrase id='50784012' tag='VP' >
+       <word id='52479840' tag='VBZ' >is</word>
+       <phrase id='28114848' tag='ADJP' >
+        <word id='44001672' tag='JJ' >unclear</word>
+       </phrase>
+       <phrase id='46848360' tag='SBAR' >
+        <phrase id='48926496' tag='WHNP' >
+         <word id='50987328' tag='WDT' >which</word>
+        </phrase>
+        <phrase id='52681908' tag='PRN' >
+         <punctuation id='41409660' tag=',' >,</punctuation>
+         <phrase id='41561376' tag='SBAR' >
+          <word id='48024948' tag='IN' >if</word>
+          <phrase id='50177076' tag='FRAG' >
+           <word id='52129104' tag='DT' >any</word>
+          </phrase>
+         </phrase>
+         <punctuation id='40875564' tag=',' >,</punctuation>
+        </phrase>
+        <phrase id='41671992' tag='S' >
+         <phrase id='47685144' tag='PP' >
+          <word id='49938360' tag='IN' >of</word>
+          <phrase id='51745320' tag='NP' >
+           <word id='40633644' tag='DT' >these</word>
+          </phrase>
+         </phrase>
+         <phrase id='42622140' tag='NP' >
+          <word id='47503788' tag='NNS' >functions</word>
+         </phrase>
+         <phrase id='49518012' tag='VP' >
+          <word id='51537420' tag='VBP' >are</word>
+          <phrase id='28083864' tag='VP' >
+           <word id='43251576' tag='VBN' >performed</word>
+           <phrase id='47360064' tag='ADVP' >
+            <word id='49793952' tag='RB' >exclusively</word>
+           </phrase>
+           <phrase id='51661752' tag='PP' >
+            <word id='40911900' tag='IN' >by</word>
+            <phrase id='42265416' tag='NP' >
+             <word id='48303468' tag='DT' >the</word>
+             <word id='50605044' tag='JJ' >olfactory</word>
+             <word id='27981312' tag='NN' >bulb</word>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='43684920' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27901968' tag_set=':penn' tag='S' >
+      <phrase id='47007192' tag='PP' >
+       <word id='49062288' tag='IN' >By</word>
+       <phrase id='50944452' tag='NP' >
+        <phrase id='52678776' tag='NP' >
+         <word id='40713744' tag='NN' >analogy</word>
+        </phrase>
+        <phrase id='42694704' tag='PP' >
+         <word id='47544264' tag='TO' >to</word>
+         <phrase id='49525248' tag='NP' >
+          <phrase id='51538692' tag='NP' >
+           <word id='28087344' tag='JJ' >similar</word>
+           <word id='43240476' tag='NNS' >parts</word>
+          </phrase>
+          <phrase id='47296176' tag='PP' >
+           <word id='49528752' tag='IN' >of</word>
+           <phrase id='51557616' tag='NP' >
+            <phrase id='40712676' tag='NP' >
+             <word id='41509020' tag='DT' >the</word>
+             <word id='48160176' tag='NN' >brain</word>
+            </phrase>
+            <phrase id='50431452' tag='PP' >
+             <word id='27815472' tag='JJ' >such</word>
+             <word id='43933320' tag='IN' >as</word>
+             <phrase id='47105400' tag='NP' >
+              <word id='49791732' tag='DT' >the</word>
+              <word id='47233440' tag='NN' >retina</word>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='41414520' tag=',' >,</punctuation>
+      <phrase id='41692968' tag='NP' >
+       <word id='47609844' tag='JJ' >many</word>
+       <word id='49514064' tag='NNS' >researchers</word>
+      </phrase>
+      <phrase id='51298428' tag='VP' >
+       <word id='52991280' tag='VBP' >have</word>
+       <phrase id='40721772' tag='VP' >
+        <word id='41312088' tag='VBN' >focused</word>
+        <phrase id='47488152' tag='PP' >
+         <word id='49528188' tag='IN' >on</word>
+         <phrase id='51416028' tag='SBAR' >
+          <phrase id='27836688' tag='SBAR' >
+           <symbol id='45551904' tag='WHADVP' >(WRB how)</symbol>
+           <phrase id='46906152' tag='S' >
+            <phrase id='49253544' tag='NP' >
+             <word id='51544884' tag='DT' >the</word>
+             <word id='40863912' tag='JJ' >olfactory</word>
+             <word id='42312480' tag='NN' >bulb</word>
+            </phrase>
+            <phrase id='48290628' tag='VP' >
+             <word id='50595468' tag='VBZ' >filters</word>
+             <phrase id='27921036' tag='NP' >
+              <word id='41921832' tag='JJ' >incoming</word>
+              <word id='47602872' tag='NN' >information</word>
+             </phrase>
+             <phrase id='49990056' tag='PP' >
+              <word id='52183440' tag='IN' >from</word>
+              <phrase id='43676280' tag='NP' >
+               <phrase id='47010444' tag='NP' >
+                <word id='49803024' tag='NN' >receptor</word>
+                <word id='27834516' tag='NNS' >neurons</word>
+               </phrase>
+               <phrase id='45861696' tag='PP' >
+                <word id='47605368' tag='IN' >in</word>
+                <phrase id='50194824' tag='NP' >
+                 <word id='40462368' tag='NN' >space</word>
+                </phrase>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+          <punctuation id='42673908' tag=',' >,</punctuation>
+          <word id='47539776' tag='CC' >or</word>
+          <phrase id='49742640' tag='SBAR' >
+           <symbol id='51701244' tag='WHADVP' >(WRB how)</symbol>
+           <phrase id='40729836' tag='S' >
+            <phrase id='41463204' tag='NP' >
+             <word id='48141660' tag='PRP' >it</word>
+            </phrase>
+            <phrase id='50436096' tag='VP' >
+             <word id='27579792' tag='VBZ' >filters</word>
+             <phrase id='43882632' tag='NP' >
+              <phrase id='47021364' tag='NP' >
+               <word id='49784796' tag='JJ' >incoming</word>
+               <word id='51988092' tag='NN' >information</word>
+              </phrase>
+              <phrase id='43466400' tag='PP' >
+               <word id='47000376' tag='IN' >in</word>
+               <phrase id='49731408' tag='NP' >
+                <word id='27550716' tag='NN' >time</word>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='42569088' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27899448' tag_set=':penn' tag='S' >
+      <phrase id='46443492' tag='PP' >
+       <word id='48524664' tag='IN' >At</word>
+       <phrase id='50493048' tag='NP' >
+        <phrase id='52276788' tag='NP' >
+         <word id='28025136' tag='DT' >the</word>
+         <word id='45855300' tag='NN' >core</word>
+        </phrase>
+        <phrase id='46885272' tag='PP' >
+         <word id='49060740' tag='IN' >of</word>
+         <phrase id='51057504' tag='NP' >
+          <word id='52948476' tag='DT' >these</word>
+          <word id='42910068' tag='VBN' >proposed</word>
+          <word id='46394292' tag='NNS' >filters</word>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <phrase id='48402972' tag='VP' >
+       <word id='50393628' tag='VBP' >are</word>
+      </phrase>
+      <phrase id='52029672' tag='NP' >
+       <phrase id='27916224' tag='NP' >
+        <phrase id='43689696' tag='NP' >
+         <word id='46702404' tag='DT' >the</word>
+         <word id='48886128' tag='CD' >two</word>
+         <word id='50943984' tag='NNS' >classes</word>
+        </phrase>
+        <phrase id='52682304' tag='PP' >
+         <word id='41596932' tag='IN' >of</word>
+         <phrase id='42263724' tag='NP' >
+          <word id='48141276' tag='NNS' >interneurons</word>
+         </phrase>
+        </phrase>
+       </phrase>
+       <punctuation id='50182176' tag=':' >;</punctuation>
+       <phrase id='51802692' tag='NP' >
+        <phrase id='27939708' tag='NP' >
+         <word id='45874104' tag='DT' >the</word>
+         <word id='46849452' tag='NN' >periglomerular</word>
+        </phrase>
+        <phrase id='48936792' tag='NP' >
+         <word id='50989932' tag='NNS' >cells</word>
+        </phrase>
+       </phrase>
+       <punctuation id='52691316' tag=',' >,</punctuation>
+       <word id='40877052' tag='CC' >and</word>
+       <phrase id='41675472' tag='NP' >
+        <word id='47660184' tag='DT' >the</word>
+        <word id='49799172' tag='JJ' >granule</word>
+        <word id='51547524' tag='NNS' >cells</word>
+       </phrase>
+      </phrase>
+      <punctuation id='53155224' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27894528' tag_set=':penn' tag='S' >
+      <phrase id='42735648' tag='NP' >
+       <word id='46131252' tag='NNP' >Processing</word>
+      </phrase>
+      <phrase id='48137856' tag='VP' >
+       <word id='50190936' tag='VBZ' >occurs</word>
+       <phrase id='51843216' tag='PP' >
+        <word id='51875856' tag='IN' >at</word>
+        <phrase id='42555264' tag='NP' >
+         <phrase id='46192644' tag='NP' >
+          <word id='48520356' tag='DT' >each</word>
+          <word id='50691516' tag='NN' >level</word>
+         </phrase>
+         <phrase id='52487256' tag='PP' >
+          <word id='41451384' tag='IN' >of</word>
+          <phrase id='45882336' tag='NP' >
+           <word id='48296820' tag='DT' >the</word>
+           <word id='50545152' tag='JJ' >main</word>
+           <word id='52485132' tag='NN' >olfactory</word>
+           <word id='42563628' tag='NN' >bulb</word>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+       <punctuation id='46085532' tag=',' >,</punctuation>
+       <phrase id='48150312' tag='PP' >
+        <word id='50246496' tag='VBG' >beginning</word>
+        <phrase id='52036116' tag='PP' >
+         <word id='28098432' tag='IN' >with</word>
+         <phrase id='44013132' tag='NP' >
+          <phrase id='47151060' tag='NP' >
+           <word id='49471956' tag='DT' >the</word>
+           <word id='51556740' tag='JJ' >spatial</word>
+           <word id='28165020' tag='NNS' >maps</word>
+          </phrase>
+          <phrase id='42573492' tag='SBAR' >
+           <phrase id='47501256' tag='WHNP' >
+            <word id='49945812' tag='WDT' >that</word>
+           </phrase>
+           <phrase id='51840264' tag='S' >
+            <phrase id='40883388' tag='VP' >
+             <word id='45929556' tag='VBP' >categorize</word>
+             <phrase id='48409368' tag='NP' >
+              <phrase id='50806788' tag='NP' >
+               <word id='28201020' tag='NNS' >odors</word>
+              </phrase>
+              <phrase id='41674716' tag='PP' >
+               <word id='48144912' tag='IN' >in</word>
+               <phrase id='50606484' tag='NP' >
+                <word id='40649124' tag='DT' >the</word>
+                <word id='42267624' tag='JJ' >glomeruli</word>
+                <word id='48514716' tag='NN' >layer</word>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='50440200' tag='.' >.</punctuation>
+     </sentence>
+     <fragment id='27891816' tag_set=':penn' tag='F' >
+      <phrase id='52296504' tag='VP' >
+       <punctuation id='41765064' tag='VBZ' >[</punctuation>
+      </phrase>
+      <phrase id='41510292' tag='NP' >
+       <number id='47809068' tag='CD' >2</number>
+       <punctuation id='49886388' tag='NN' >]</punctuation>
+      </phrase>
+     </fragment>
+    </paragraph>
+    <paragraph id='28083948'>
+     <sentence id='27865596' tag_set=':penn' tag='S' >
+      <phrase id='47275512' tag='NP' >
+       <phrase id='51880428' tag='NP' >
+        <word id='42179280' tag='NNS' >Interneurons</word>
+       </phrase>
+       <phrase id='45925248' tag='PP' >
+        <word id='48151836' tag='IN' >in</word>
+        <phrase id='50193708' tag='NP' >
+         <word id='52122708' tag='DT' >the</word>
+         <word id='28094856' tag='JJ' >external</word>
+         <word id='44014428' tag='NN' >plexiform</word>
+         <word id='47147736' tag='NN' >layer</word>
+        </phrase>
+       </phrase>
+      </phrase>
+      <phrase id='49057152' tag='VP' >
+       <word id='51041112' tag='VBP' >are</word>
+       <phrase id='52685916' tag='ADJP' >
+        <word id='40763112' tag='JJ' >responsive</word>
+        <phrase id='41365104' tag='S' >
+         <phrase id='47608440' tag='VP' >
+          <word id='49937652' tag='TO' >to</word>
+          <phrase id='51798360' tag='VP' >
+           <phrase id='28145196' tag='VP' >
+            <word id='42692916' tag='VB' >pre-synaptic</word>
+            <phrase id='47766456' tag='NP' >
+             <word id='50195856' tag='NN' >action</word>
+             <word id='52298484' tag='NNS' >potentials</word>
+            </phrase>
+           </phrase>
+           <word id='42731196' tag='CC' >and</word>
+           <phrase id='46384896' tag='VP' >
+            <word id='48870720' tag='VB' >exhibit</word>
+            <phrase id='51059424' tag='NP' >
+             <phrase id='28082160' tag='NP' >
+              <word id='41317212' tag='DT' >both</word>
+              <phrase id='47874660' tag='ADJP' >
+               <word id='50482668' tag='RB' >excitatory</word>
+               <word id='28038672' tag='JJ' >postsynaptic</word>
+              </phrase>
+              <word id='42633384' tag='NNS' >potentials</word>
+             </phrase>
+             <word id='47772516' tag='CC' >and</word>
+             <phrase id='50187816' tag='NP' >
+              <phrase id='23889960' tag='ADJP' >
+               <word id='45874404' tag='RB' >inhibitory</word>
+               <word id='47363592' tag='JJ' >postsynaptic</word>
+              </phrase>
+              <word id='49985904' tag='NNS' >potentials</word>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='51604608' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27863460' tag_set=':penn' tag='S' >
+      <phrase id='40755780' tag='S' >
+       <phrase id='41317380' tag='NP' >
+        <word id='47542260' tag='JJ' >Neural</word>
+        <word id='49734036' tag='NN' >firing</word>
+       </phrase>
+       <phrase id='51356976' tag='VP' >
+        <word id='53155608' tag='VBZ' >varies</word>
+        <phrase id='41591448' tag='ADVP' >
+         <word id='45876936' tag='RB' >temporally</word>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='47936424' tag=',' >,</punctuation>
+      <phrase id='49938108' tag='NP' >
+       <word id='51644736' tag='EX' >there</word>
+      </phrase>
+      <phrase id='53245164' tag='VP' >
+       <word id='41266476' tag='VBP' >are</word>
+       <phrase id='41465028' tag='NP' >
+        <phrase id='47768676' tag='NP' >
+         <word id='50001144' tag='NNS' >periods</word>
+        </phrase>
+        <phrase id='51757152' tag='PP' >
+         <word id='27841452' tag='IN' >of</word>
+         <phrase id='43633800' tag='NP' >
+          <phrase id='46696632' tag='NP' >
+           <word id='49054884' tag='JJ' >fast</word>
+           <punctuation id='51253584' tag=',' >,</punctuation>
+           <word id='27936288' tag='JJ' >spontaneous</word>
+           <word id='45856032' tag='NN' >firing</word>
+           <word id='47218476' tag='CC' >and</word>
+           <word id='49520460' tag='JJ' >slow</word>
+           <word id='51649968' tag='NNS' >modulation</word>
+          </phrase>
+          <phrase id='28187280' tag='PP' >
+           <word id='42689748' tag='IN' >of</word>
+           <phrase id='47680272' tag='NP' >
+            <word id='50129688' tag='NN' >firing</word>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='51752688' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27861444' tag_set=':penn' tag='S' >
+      <phrase id='28104864' tag='NP' >
+       <word id='45865248' tag='DT' >These</word>
+       <word id='46895388' tag='NNS' >patterns</word>
+      </phrase>
+      <phrase id='48889008' tag='VP' >
+       <word id='50840772' tag='MD' >may</word>
+       <phrase id='52551900' tag='VP' >
+        <phrase id='28058220' tag='VP' >
+         <word id='44022084' tag='VB' >be</word>
+         <phrase id='47067348' tag='ADJP' >
+          <word id='49370424' tag='VBN' >related</word>
+          <phrase id='51408384' tag='PP' >
+           <word id='27950664' tag='TO' >to</word>
+           <phrase id='43983216' tag='S' >
+            <phrase id='47292096' tag='VP' >
+             <word id='49803648' tag='VBG' >sniffing</word>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+        <word id='51604944' tag='CC' >or</word>
+        <phrase id='28065228' tag='VP' >
+         <word id='44011488' tag='VB' >change</word>
+         <phrase id='47015520' tag='PP' >
+          <word id='49363344' tag='IN' >in</word>
+          <phrase id='51413424' tag='NP' >
+           <phrase id='27906744' tag='NP' >
+            <word id='45865800' tag='NN' >intensity</word>
+            <word id='47357016' tag='CC' >and</word>
+            <word id='49804656' tag='NN' >concentration</word>
+           </phrase>
+           <phrase id='51750516' tag='PP' >
+            <word id='40874256' tag='IN' >of</word>
+            <phrase id='42274104' tag='NP' >
+             <word id='48399936' tag='NN' >odorant</word>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='50354196' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27858636' tag_set=':penn' tag='S' >
+      <phrase id='52374312' tag='NP' >
+       <phrase id='40618248' tag='QP' >
+        <punctuation id='42678180' tag='CD' >[</punctuation>
+        <number id='47446380' tag='CD' >3</number>
+       </phrase>
+       <punctuation id='49409544' tag='NNP' >]</punctuation>
+       <word id='51299592' tag='NNP' >Temporal</word>
+       <word id='53004264' tag='NNS' >patterns</word>
+      </phrase>
+      <phrase id='40756320' tag='VP' >
+       <word id='41367168' tag='MD' >may</word>
+       <phrase id='47485296' tag='VP' >
+        <word id='49528584' tag='VB' >have</word>
+        <phrase id='51420072' tag='NP' >
+         <phrase id='53244720' tag='NP' >
+          <word id='42365184' tag='NN' >effect</word>
+         </phrase>
+         <phrase id='46143096' tag='PP' >
+          <word id='48474096' tag='IN' >in</word>
+          <phrase id='50691684' tag='NP' >
+           <phrase id='52632384' tag='NP' >
+            <word id='42547536' tag='RB' >later</word>
+            <word id='46449900' tag='NN' >processing</word>
+           </phrase>
+           <phrase id='48794928' tag='PP' >
+            <word id='51103752' tag='IN' >of</word>
+            <phrase id='28026336' tag='NP' >
+             <phrase id='42575484' tag='NP' >
+              <word id='47810028' tag='JJ' >spatial</word>
+              <word id='50348484' tag='NN' >awareness</word>
+             </phrase>
+             <phrase id='28061400' tag='PP' >
+              <word id='43890384' tag='IN' >of</word>
+              <phrase id='47107584' tag='NP' >
+               <word id='49925784' tag='NN' >odorant</word>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='51599976' tag='.' >.</punctuation>
+     </sentence>
+     <phrase id='27856104' tag_set=':penn' tag='P' >
+      <phrase id='28188072' tag='VP' >
+       <punctuation id='41931816' tag='VBZ' >[</punctuation>
+       <phrase id='47010996' tag='NP' >
+        <word id='49208040' tag='NN' >citation</word>
+       </phrase>
+      </phrase>
+      <phrase id='51046296' tag='NP' >
+       <word id='47670348' tag='VBN' >needed</word>
+       <punctuation id='28161960' tag='NNS' >]</punctuation>
+      </phrase>
+     </phrase>
+    </paragraph>
+    <paragraph id='28081032'>
+     <sentence id='27826020' tag_set=':penn' tag='S' >
+      <phrase id='42688392' tag='NP' >
+       <phrase id='47447628' tag='NP' >
+        <word id='49505868' tag='DT' >The</word>
+        <word id='51416148' tag='NNS' >interneurons</word>
+       </phrase>
+       <phrase id='53118360' tag='PP' >
+        <word id='40922952' tag='IN' >in</word>
+        <phrase id='41459604' tag='NP' >
+         <word id='47927928' tag='DT' >the</word>
+         <word id='50137524' tag='JJ' >external</word>
+         <word id='52031448' tag='NN' >plexiform</word>
+         <word id='28054080' tag='NN' >layer</word>
+        </phrase>
+       </phrase>
+      </phrase>
+      <phrase id='44084028' tag='VP' >
+       <word id='46706076' tag='VBP' >perform</word>
+       <phrase id='48788352' tag='NP' >
+        <word id='50852220' tag='NN' >feedback</word>
+        <word id='52683936' tag='NN' >inhibition</word>
+       </phrase>
+       <phrase id='28122468' tag='PP' >
+        <word id='41909508' tag='IN' >on</word>
+        <phrase id='47056188' tag='NP' >
+         <word id='49309104' tag='DT' >the</word>
+         <word id='51361968' tag='JJ' >mitral</word>
+         <word id='53194224' tag='NNS' >cells</word>
+        </phrase>
+       </phrase>
+       <phrase id='41958492' tag='S' >
+        <phrase id='45944820' tag='VP' >
+         <word id='48307776' tag='TO' >to</word>
+         <phrase id='50444196' tag='VP' >
+          <word id='52386444' tag='VB' >control</word>
+          <phrase id='40692552' tag='PRT' >
+           <word id='41742912' tag='RP' >back</word>
+          </phrase>
+          <phrase id='47886780' tag='NP' >
+           <word id='50289348' tag='NN' >propagation</word>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='51984336' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27823248' tag_set=':penn' tag='S' >
+      <phrase id='28096080' tag='NP' >
+       <word id='45850668' tag='PRP' >They</word>
+      </phrase>
+      <phrase id='46809168' tag='ADVP' >
+       <word id='48933300' tag='RB' >also</word>
+      </phrase>
+      <phrase id='50801208' tag='VP' >
+       <word id='52592064' tag='VBP' >participate</word>
+       <phrase id='27915384' tag='PP' >
+        <word id='43878456' tag='IN' >in</word>
+        <phrase id='46691160' tag='NP' >
+         <phrase id='48923844' tag='NP' >
+          <word id='51096084' tag='JJ' >lateral</word>
+          <word id='53011320' tag='NN' >inhibition</word>
+         </phrase>
+         <phrase id='41966088' tag='PP' >
+          <word id='46194708' tag='IN' >of</word>
+          <phrase id='48474132' tag='NP' >
+           <word id='50796264' tag='DT' >the</word>
+           <word id='47666148' tag='JJ' >mitral</word>
+           <word id='42742104' tag='NNS' >cells</word>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='46121844' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27820944' tag_set=':penn' tag='S' >
+      <phrase id='48736716' tag='NP' >
+       <word id='50784684' tag='DT' >This</word>
+       <word id='52533252' tag='NN' >inhibition</word>
+      </phrase>
+      <phrase id='27928320' tag='VP' >
+       <word id='43694076' tag='VBZ' >is</word>
+       <phrase id='46585776' tag='NP' >
+        <phrase id='48727392' tag='NP' >
+         <word id='50859876' tag='DT' >an</word>
+         <word id='52735044' tag='JJ' >important</word>
+         <word id='40766280' tag='NN' >part</word>
+        </phrase>
+        <phrase id='41637588' tag='PP' >
+         <word id='47763468' tag='IN' >of</word>
+         <phrase id='49986264' tag='NP' >
+          <word id='47274648' tag='NN' >olfaction</word>
+         </phrase>
+        </phrase>
+       </phrase>
+       <phrase id='27880524' tag='SBAR' >
+        <word id='43684320' tag='IN' >as</word>
+        <phrase id='46598076' tag='S' >
+         <phrase id='48878616' tag='NP' >
+          <word id='51046596' tag='PRP' >it</word>
+         </phrase>
+         <phrase id='52905108' tag='VP' >
+          <word id='41799600' tag='VBZ' >aids</word>
+          <phrase id='46034016' tag='PP' >
+           <word id='48475812' tag='IN' >in</word>
+           <phrase id='50746848' tag='NP' >
+            <word id='52938984' tag='NN' >odor</word>
+            <word id='43315536' tag='NN' >discrimination</word>
+           </phrase>
+          </phrase>
+          <phrase id='46597260' tag='PP' >
+           <word id='49040532' tag='IN' >by</word>
+           <phrase id='51247788' tag='S' >
+            <phrase id='27994140' tag='VP' >
+             <phrase id='43240608' tag='VP' >
+              <word id='47774136' tag='VBG' >decreasing</word>
+              <phrase id='50297580' tag='NP' >
+               <phrase id='27643812' tag='NP' >
+                <word id='44002776' tag='NN' >firing</word>
+               </phrase>
+               <phrase id='47598204' tag='PP' >
+                <word id='50344812' tag='IN' >in</word>
+                <phrase id='28066284' tag='NP' >
+                 <word id='41742084' tag='NN' >response</word>
+                </phrase>
+               </phrase>
+              </phrase>
+              <phrase id='48195924' tag='PP' >
+               <word id='50783664' tag='TO' >to</word>
+               <phrase id='40592220' tag='NP' >
+                <word id='42263484' tag='NN' >background</word>
+                <word id='48617052' tag='NNS' >odors</word>
+               </phrase>
+              </phrase>
+             </phrase>
+             <word id='50999124' tag='CC' >and</word>
+             <phrase id='40604676' tag='VP' >
+              <word id='41510556' tag='VBG' >differentiating</word>
+              <phrase id='48292452' tag='NP' >
+               <phrase id='50848068' tag='NP' >
+                <word id='40594908' tag='DT' >the</word>
+                <word id='42268224' tag='NNS' >responses</word>
+               </phrase>
+               <phrase id='48467064' tag='PP' >
+                <word id='51096312' tag='IN' >of</word>
+                <phrase id='41269344' tag='NP' >
+                 <phrase id='46389960' tag='NP' >
+                  <word id='49314804' tag='JJ' >olfactory</word>
+                  <word id='27632664' tag='NN' >nerve</word>
+                  <word id='41917140' tag='NNS' >inputs</word>
+                 </phrase>
+                 <phrase id='47877768' tag='PP' >
+                  <word id='50697036' tag='IN' >in</word>
+                  <phrase id='41077788' tag='NP' >
+                   <word id='46507644' tag='DT' >the</word>
+                   <word id='49523688' tag='JJ' >mitral</word>
+                   <word id='28015872' tag='NN' >cell</word>
+                   <word id='41729736' tag='NN' >layer</word>
+                  </phrase>
+                 </phrase>
+                </phrase>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='47654940' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27817848' tag_set=':penn' tag='S' >
+      <phrase id='50193816' tag='NP' >
+       <phrase id='51990792' tag='NP' >
+        <punctuation id='28034280' tag='NNP' >[</punctuation>
+        <number id='43996572' tag='CD' >1</number>
+        <punctuation id='46950168' tag='NNP' >]</punctuation>
+        <word id='49201800' tag='NNP' >Inhibition</word>
+       </phrase>
+       <phrase id='51104184' tag='PP' >
+        <word id='52953684' tag='IN' >of</word>
+        <phrase id='40766880' tag='NP' >
+         <phrase id='41690148' tag='NP' >
+          <word id='47937000' tag='DT' >the</word>
+          <word id='50247252' tag='JJ' >mitral</word>
+          <word id='52228284' tag='NN' >cell</word>
+          <word id='40636944' tag='NN' >layer</word>
+         </phrase>
+         <phrase id='42690948' tag='PP' >
+          <word id='47757096' tag='IN' >by</word>
+          <phrase id='50045364' tag='NP' >
+           <word id='52126452' tag='DT' >the</word>
+           <word id='40662492' tag='JJ' >other</word>
+           <word id='41689920' tag='NNS' >layers</word>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <phrase id='47603580' tag='VP' >
+       <word id='49744188' tag='VBZ' >contributes</word>
+       <phrase id='51498360' tag='S' >
+        <phrase id='53250576' tag='VP' >
+         <word id='42021732' tag='TO' >to</word>
+         <phrase id='46080372' tag='VP' >
+          <word id='48477648' tag='VB' >odor</word>
+          <phrase id='50697888' tag='NP' >
+           <phrase id='52691352' tag='NP' >
+            <word id='42177360' tag='NN' >discrimination</word>
+           </phrase>
+           <word id='46326768' tag='CC' >and</word>
+           <phrase id='48734616' tag='NP' >
+            <word id='51053748' tag='JJR' >higher</word>
+            <word id='27906948' tag='NN' >level</word>
+            <word id='45852360' tag='NN' >processing</word>
+           </phrase>
+          </phrase>
+          <phrase id='47146440' tag='PP' >
+           <word id='49728264' tag='IN' >by</word>
+           <phrase id='51706884' tag='S' >
+            <phrase id='40464792' tag='VP' >
+             <word id='41736936' tag='VBG' >modulating</word>
+             <phrase id='48160788' tag='NP' >
+              <word id='50695128' tag='DT' >the</word>
+              <word id='27906048' tag='NN' >output</word>
+             </phrase>
+             <phrase id='44002656' tag='PP' >
+              <word id='47605536' tag='IN' >from</word>
+              <phrase id='50199204' tag='NP' >
+               <word id='27571140' tag='DT' >the</word>
+               <word id='45867600' tag='JJ' >olfactory</word>
+               <word id='47501424' tag='NN' >bulb</word>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='49456524' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27815376' tag_set=':penn' tag='S' >
+      <phrase id='51705408' tag='NP' >
+       <phrase id='27855420' tag='NP' >
+        <word id='43490604' tag='DT' >These</word>
+        <word id='46651224' tag='NNS' >hyperpolarizations</word>
+       </phrase>
+       <phrase id='48735036' tag='PP' >
+        <word id='50862324' tag='IN' >during</word>
+        <phrase id='52678992' tag='NP' >
+         <word id='40623528' tag='NN' >odor</word>
+         <word id='41325120' tag='NN' >stimulation</word>
+        </phrase>
+       </phrase>
+      </phrase>
+      <phrase id='47434968' tag='VP' >
+       <word id='49469724' tag='VBP' >shape</word>
+       <phrase id='51359436' tag='S' >
+        <phrase id='53159316' tag='NP' >
+         <phrase id='40919196' tag='NP' >
+          <word id='42310116' tag='DT' >the</word>
+          <word id='48284508' tag='NNS' >responses</word>
+         </phrase>
+         <phrase id='50439408' tag='PP' >
+          <word id='52435680' tag='IN' >of</word>
+          <phrase id='40767432' tag='NP' >
+           <word id='41572464' tag='DT' >the</word>
+           <word id='48209124' tag='JJ' >mitral</word>
+           <word id='50551680' tag='NNS' >cells</word>
+          </phrase>
+         </phrase>
+        </phrase>
+        <phrase id='52375404' tag='VP' >
+         <word id='40765860' tag='TO' >to</word>
+         <phrase id='41690784' tag='VP' >
+          <word id='47946912' tag='VB' >make</word>
+          <phrase id='50248560' tag='S' >
+           <phrase id='52277520' tag='NP' >
+            <word id='40794408' tag='PRP' >them</word>
+           </phrase>
+           <phrase id='41565600' tag='ADJP' >
+            <word id='48344436' tag='RBR' >more</word>
+            <word id='50741184' tag='JJ' >specific</word>
+            <phrase id='47668008' tag='PP' >
+             <word id='43477128' tag='TO' >to</word>
+             <phrase id='46942380' tag='NP' >
+              <word id='49745484' tag='DT' >an</word>
+              <word id='52031868' tag='NN' >odor</word>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='40716192' tag='.' >.</punctuation>
+     </sentence>
+     <fragment id='27813144' tag_set=':penn' tag='F' >
+      <phrase id='41681688' tag='VP' >
+       <punctuation id='47759052' tag='VBZ' >[</punctuation>
+      </phrase>
+      <phrase id='49790052' tag='NP' >
+       <number id='51555240' tag='CD' >4</number>
+       <punctuation id='53261004' tag='NN' >]</punctuation>
+      </phrase>
+     </fragment>
+    </paragraph>
+    <paragraph id='28078596'>
+     <sentence id='27795840' tag_set=':penn' tag='S' >
+      <phrase id='40912692' tag='NP' >
+       <word id='41499960' tag='EX' >There</word>
+      </phrase>
+      <phrase id='47754372' tag='VP' >
+       <word id='49925676' tag='VBZ' >is</word>
+       <phrase id='51657564' tag='NP' >
+        <phrase id='53358804' tag='NP' >
+         <word id='41421072' tag='DT' >a</word>
+         <word id='45889680' tag='NN' >lack</word>
+        </phrase>
+        <phrase id='48143520' tag='PP' >
+         <word id='50396964' tag='IN' >of</word>
+         <phrase id='52275552' tag='NP' >
+          <phrase id='28150728' tag='NP' >
+           <word id='41315136' tag='NN' >information</word>
+          </phrase>
+          <phrase id='43253604' tag='PP' >
+           <word id='50183724' tag='VBG' >regarding</word>
+           <phrase id='52178532' tag='NP' >
+            <phrase id='40790304' tag='NP' >
+             <word id='45924528' tag='DT' >the</word>
+             <word id='48564732' tag='NN' >function</word>
+            </phrase>
+            <phrase id='50857080' tag='PP' >
+             <word id='27912240' tag='IN' >of</word>
+             <phrase id='43998660' tag='NP' >
+              <phrase id='47611260' tag='NP' >
+               <word id='50300136' tag='DT' >the</word>
+               <word id='27668820' tag='JJ' >internal</word>
+               <word id='45863664' tag='NN' >plexiform</word>
+               <word id='47678736' tag='NN' >layer</word>
+              </phrase>
+              <phrase id='50288892' tag='SBAR' >
+               <phrase id='27806904' tag='WHNP' >
+                <word id='41922816' tag='WDT' >which</word>
+               </phrase>
+               <phrase id='47769648' tag='S' >
+                <phrase id='50493552' tag='VP' >
+                 <word id='28160460' tag='VBZ' >lies</word>
+                 <phrase id='41557008' tag='PP' >
+                  <word id='48731340' tag='IN' >between</word>
+                  <phrase id='51408120' tag='NP' >
+                   <phrase id='43271052' tag='NP' >
+                    <word id='47552844' tag='DT' >the</word>
+                    <word id='50591784' tag='JJ' >mitral</word>
+                    <word id='41605152' tag='NN' >cell</word>
+                    <word id='46767564' tag='NN' >layer</word>
+                   </phrase>
+                   <word id='49940424' tag='CC' >and</word>
+                   <phrase id='28100316' tag='NP' >
+                    <word id='45928656' tag='DT' >the</word>
+                    <word id='49038324' tag='JJ' >granule</word>
+                    <word id='27663744' tag='NN' >cell</word>
+                    <word id='42675252' tag='NN' >layer</word>
+                   </phrase>
+                  </phrase>
+                 </phrase>
+                </phrase>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='47355540' tag='.' >.</punctuation>
+     </sentence>
+     <phrase id='27675936' tag_set=':penn' tag='P' >
+      <phrase id='49738344' tag='VP' >
+       <punctuation id='51560964' tag='VBZ' >[</punctuation>
+       <phrase id='52285320' tag='NP' >
+        <word id='42555768' tag='NN' >citation</word>
+       </phrase>
+      </phrase>
+      <phrase id='46123536' tag='NP' >
+       <word id='48357708' tag='VBN' >needed</word>
+       <punctuation id='50445228' tag='NNS' >]</punctuation>
+      </phrase>
+     </phrase>
+    </paragraph>
+    <paragraph id='28075704'>
+     <sentence id='27614376' tag_set=':penn' tag='S' >
+      <phrase id='52537236' tag='NP' >
+       <phrase id='27826980' tag='NP' >
+        <word id='43458720' tag='DT' >The</word>
+        <word id='46598340' tag='JJ' >basal</word>
+        <word id='48878664' tag='NNS' >dendrites</word>
+       </phrase>
+       <phrase id='50863296' tag='PP' >
+        <word id='52740648' tag='IN' >of</word>
+        <phrase id='28161660' tag='NP' >
+         <word id='42623796' tag='JJ' >mitral</word>
+         <word id='47550336' tag='NNS' >cells</word>
+        </phrase>
+       </phrase>
+      </phrase>
+      <phrase id='49507224' tag='VP' >
+       <word id='51491856' tag='VBP' >are</word>
+       <phrase id='53151444' tag='VP' >
+        <word id='40813320' tag='VBN' >connected</word>
+        <phrase id='41465856' tag='PP' >
+         <word id='47941464' tag='TO' >to</word>
+         <phrase id='50194224' tag='NP' >
+          <phrase id='52185672' tag='NP' >
+           <word id='28153464' tag='NNS' >interneurons</word>
+          </phrase>
+          <phrase id='42622860' tag='VP' >
+           <word id='47764608' tag='VBN' >known</word>
+           <phrase id='50138556' tag='PP' >
+            <word id='52286004' tag='IN' >as</word>
+            <phrase id='40868712' tag='NP' >
+             <phrase id='46039092' tag='NP' >
+              <word id='48739908' tag='JJ' >granule</word>
+              <word id='51256548' tag='NNS' >cells</word>
+             </phrase>
+             <punctuation id='28146600' tag=',' >,</punctuation>
+             <phrase id='41625084' tag='SBAR' >
+              <phrase id='48144024' tag='WHNP' >
+               <word id='50783784' tag='WDT' >which</word>
+              </phrase>
+              <phrase id='27936840' tag='S' >
+               <phrase id='42619248' tag='PP' >
+                <word id='48083628' tag='IN' >by</word>
+                <phrase id='50749236' tag='NP' >
+                 <word id='40651548' tag='DT' >some</word>
+                 <word id='46026900' tag='NNS' >theories</word>
+                </phrase>
+               </phrase>
+               <phrase id='48738216' tag='VP' >
+                <word id='51400356' tag='VBP' >produce</word>
+                <phrase id='41797896' tag='NP' >
+                 <phrase id='46650156' tag='NP' >
+                  <word id='49795980' tag='JJ' >lateral</word>
+                  <word id='27885492' tag='NN' >inhibition</word>
+                 </phrase>
+                 <phrase id='42617448' tag='PP' >
+                  <word id='48216396' tag='IN' >between</word>
+                  <phrase id='50999628' tag='NP' >
+                   <word id='41970372' tag='JJ' >mitral</word>
+                   <word id='46905576' tag='NNS' >cells</word>
+                  </phrase>
+                 </phrase>
+                </phrase>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='48999480' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27611796' tag_set=':penn' tag='S' >
+      <phrase id='51501888' tag='NP' >
+       <phrase id='27622788' tag='NP' >
+        <word id='43090956' tag='DT' >The</word>
+        <word id='46452456' tag='NN' >synapse</word>
+       </phrase>
+       <phrase id='48667956' tag='PP' >
+        <word id='50805012' tag='IN' >between</word>
+        <phrase id='52675224' tag='NP' >
+         <phrase id='28116828' tag='ADJP' >
+          <word id='42677880' tag='JJ' >mitral</word>
+          <word id='47681364' tag='CC' >and</word>
+          <word id='50092284' tag='JJ' >granule</word>
+         </phrase>
+         <word id='52076124' tag='NNS' >cells</word>
+        </phrase>
+       </phrase>
+      </phrase>
+      <phrase id='27794880' tag='VP' >
+       <word id='43112016' tag='VBZ' >is</word>
+       <phrase id='46397088' tag='PP' >
+        <word id='48682584' tag='IN' >of</word>
+        <phrase id='50792484' tag='NP' >
+         <phrase id='52687020' tag='NP' >
+          <word id='40465164' tag='DT' >a</word>
+          <word id='41627904' tag='JJ' >rare</word>
+          <word id='47871084' tag='NN' >class</word>
+         </phrase>
+         <phrase id='50142048' tag='PP' >
+          <word id='52181100' tag='IN' >of</word>
+          <phrase id='28098864' tag='NP' >
+           <phrase id='42677520' tag='NP' >
+            <word id='47868108' tag='NNS' >synapses</word>
+           </phrase>
+           <phrase id='50287236' tag='SBAR' >
+            <phrase id='52386168' tag='WHNP' >
+             <word id='41618916' tag='WDT' >that</word>
+            </phrase>
+            <phrase id='46199076' tag='S' >
+             <phrase id='48870744' tag='VP' >
+              <word id='51349296' tag='VBP' >are</word>
+              <punctuation id='28188900' tag='``' >&quot;</punctuation>
+              <phrase id='41504568' tag='ADJP' >
+               <word id='48456672' tag='JJ' >dendro-dendritic</word>
+              </phrase>
+              <punctuation id='51045096' tag='&apos;&apos;' >&quot;</punctuation>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+         <phrase id='27810996' tag='SBAR' >
+          <phrase id='43673868' tag='WHNP' >
+           <word id='46951896' tag='WDT' >which</word>
+          </phrase>
+          <phrase id='49323684' tag='S' >
+           <phrase id='51598980' tag='VP' >
+            <word id='28009560' tag='VBZ' >means</word>
+            <phrase id='43240152' tag='SBAR' >
+             <word id='47815368' tag='IN' >that</word>
+             <phrase id='50302428' tag='S' >
+              <phrase id='52541676' tag='NP' >
+               <phrase id='43273860' tag='NP' >
+                <word id='47212572' tag='DT' >both</word>
+                <word id='50139468' tag='NNS' >sides</word>
+               </phrase>
+               <phrase id='27657816' tag='PP' >
+                <word id='44020320' tag='IN' >of</word>
+                <phrase id='47830080' tag='NP' >
+                 <word id='50688576' tag='DT' >the</word>
+                 <word id='40623036' tag='NN' >synapse</word>
+                </phrase>
+               </phrase>
+              </phrase>
+              <phrase id='41568492' tag='VP' >
+               <word id='48606336' tag='VBP' >are</word>
+               <phrase id='51160008' tag='NP' >
+                <phrase id='40717620' tag='NP' >
+                 <word id='46181928' tag='NNS' >dendrites</word>
+                </phrase>
+                <phrase id='48991500' tag='SBAR' >
+                 <phrase id='51664512' tag='WHNP' >
+                  <word id='43282884' tag='WDT' >that</word>
+                 </phrase>
+                 <phrase id='47286132' tag='S' >
+                  <phrase id='50288664' tag='VP' >
+                   <word id='28196688' tag='VBP' >release</word>
+                   <phrase id='45941808' tag='NP' >
+                    <word id='49197792' tag='NN' >neurotransmitter</word>
+                   </phrase>
+                  </phrase>
+                 </phrase>
+                </phrase>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='51156624' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27608952' tag_set=':penn' tag='S' >
+      <phrase id='28071816' tag='PP' >
+       <word id='45860664' tag='IN' >In</word>
+       <phrase id='46957212' tag='NP' >
+        <word id='49259976' tag='DT' >this</word>
+        <word id='51363696' tag='JJ' >specific</word>
+        <word id='53193960' tag='NN' >case</word>
+       </phrase>
+      </phrase>
+      <punctuation id='40507020' tag=',' >,</punctuation>
+      <phrase id='43251804' tag='S' >
+       <phrase id='47299848' tag='NP' >
+        <word id='49509852' tag='JJ' >mitral</word>
+        <word id='51548040' tag='NNS' >cells</word>
+       </phrase>
+       <phrase id='53254020' tag='VP' >
+        <word id='40691556' tag='VBP' >release</word>
+        <phrase id='41627652' tag='NP' >
+         <word id='47818632' tag='DT' >the</word>
+         <word id='50135916' tag='JJ' >excitatory</word>
+         <word id='52130316' tag='NN' >neurotransmitter</word>
+         <word id='27887088' tag='NN' >glutamate</word>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='43464288' tag=',' >,</punctuation>
+      <word id='46494672' tag='CC' >and</word>
+      <phrase id='48614028' tag='S' >
+       <phrase id='50700552' tag='NP' >
+        <word id='52547376' tag='JJ' >granule</word>
+        <word id='27805944' tag='NNS' >cells</word>
+       </phrase>
+       <phrase id='43103640' tag='VP' >
+        <word id='46510068' tag='VBP' >release</word>
+        <phrase id='48789732' tag='NP' >
+         <word id='51040404' tag='DT' >the</word>
+         <word id='52953720' tag='NN' >inhibitory</word>
+         <word id='40718940' tag='NN' >neurotransmitter</word>
+         <word id='41732580' tag='NNP' >Gamma-aminobutyric</word>
+         <word id='47933304' tag='NN' >acid</word>
+         <punctuation id='50290104' tag='NNP' >(</punctuation>
+         <word id='52240584' tag='NNP' >GABA</word>
+         <punctuation id='28008060' tag='NNP' >)</punctuation>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='44051196' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27606120' tag_set=':penn' tag='S' >
+      <phrase id='47366436' tag='PP' >
+       <word id='49521312' tag='IN' >As</word>
+       <phrase id='51494172' tag='NP' >
+        <phrase id='53253504' tag='NP' >
+         <word id='40647684' tag='DT' >a</word>
+         <word id='41671980' tag='NN' >result</word>
+        </phrase>
+        <phrase id='47770932' tag='PP' >
+         <word id='50143116' tag='IN' >of</word>
+         <phrase id='52112436' tag='NP' >
+          <word id='27944508' tag='PRP$' >its</word>
+          <word id='43981536' tag='NN' >bi-directionality</word>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='46894128' tag=',' >,</punctuation>
+      <phrase id='48989724' tag='NP' >
+       <word id='51102132' tag='DT' >the</word>
+       <word id='52859652' tag='JJ' >dendro-dendritic</word>
+       <word id='28025832' tag='NN' >synapse</word>
+      </phrase>
+      <phrase id='44056632' tag='VP' >
+       <word id='46802412' tag='MD' >can</word>
+       <phrase id='49003608' tag='VP' >
+        <word id='51156648' tag='VB' >cause</word>
+        <phrase id='52987656' tag='NP' >
+         <phrase id='28169568' tag='NP' >
+          <word id='41312892' tag='JJ' >mitral</word>
+          <word id='47819352' tag='NNS' >cells</word>
+          <phrase id='50188584' tag='S' >
+           <phrase id='52278204' tag='VP' >
+            <word id='40664592' tag='TO' >to</word>
+            <phrase id='41521260' tag='VP' >
+             <word id='48400356' tag='VB' >inhibit</word>
+             <phrase id='50849016' tag='S' >
+              <phrase id='27834648' tag='NP' >
+               <word id='41911020' tag='PRP' >themselves</word>
+              </phrase>
+              <phrase id='47761536' tag='VP' >
+               <punctuation id='50502804' tag='VBG' >(</punctuation>
+               <phrase id='27845868' tag='NP' >
+                <word id='42576756' tag='JJ' >auto-inhibition</word>
+                <punctuation id='48080052' tag='NNS' >)</punctuation>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+         <punctuation id='50349384' tag=',' >,</punctuation>
+         <phrase id='52290936' tag='CONJP' >
+          <word id='41409216' tag='RB' >as</word>
+          <word id='46034184' tag='RB' >well</word>
+          <word id='48518988' tag='IN' >as</word>
+         </phrase>
+         <phrase id='50736336' tag='NP' >
+          <phrase id='52729116' tag='NP' >
+           <word id='40920384' tag='JJ' >neighboring</word>
+           <word id='45985128' tag='JJ' >mitral</word>
+           <word id='48567396' tag='NNS' >cells</word>
+          </phrase>
+          <phrase id='50846640' tag='VP' >
+           <punctuation id='52945188' tag='VBG' >(</punctuation>
+           <phrase id='42168360' tag='NP' >
+            <word id='46491564' tag='JJ' >lateral</word>
+            <word id='49100352' tag='NN' >inhibition</word>
+            <punctuation id='51490440' tag='NNS' >)</punctuation>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='53195196' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27603600' tag_set=':penn' tag='S' >
+      <phrase id='43114500' tag='ADVP' >
+       <word id='46502760' tag='RBR' >More</word>
+       <word id='48741216' tag='RB' >specifically</word>
+      </phrase>
+      <punctuation id='50797596' tag=',' >,</punctuation>
+      <phrase id='52536420' tag='NP' >
+       <word id='50804376' tag='DT' >the</word>
+       <word id='42191268' tag='JJ' >granule</word>
+       <word id='46141068' tag='NN' >cell</word>
+       <word id='48415008' tag='NN' >layer</word>
+      </phrase>
+      <phrase id='50440368' tag='VP' >
+       <word id='52294692' tag='VBZ' >receives</word>
+       <phrase id='51942420' tag='NP' >
+        <word id='42019464' tag='JJ' >excitatory</word>
+        <word id='46139784' tag='NN' >glutamate</word>
+        <word id='48480492' tag='NNS' >signals</word>
+       </phrase>
+       <phrase id='50590416' tag='PP' >
+        <word id='52494036' tag='IN' >from</word>
+        <phrase id='27930468' tag='NP' >
+         <phrase id='45555324' tag='NP' >
+          <word id='47109216' tag='DT' >the</word>
+          <word id='49521984' tag='JJ' >basal</word>
+          <word id='51743316' tag='NNS' >dendrites</word>
+         </phrase>
+         <phrase id='27626052' tag='PP' >
+          <word id='43459380' tag='IN' >of</word>
+          <phrase id='46752552' tag='NP' >
+           <word id='49309632' tag='DT' >the</word>
+           <phrase id='51596412' tag='ADJP' >
+            <word id='27972456' tag='JJ' >mitral</word>
+            <word id='41920308' tag='CC' >and</word>
+            <word id='47655000' tag='JJ' >tufted</word>
+           </phrase>
+           <word id='50191068' tag='NNS' >cells</word>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='51980772' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27592440' tag_set=':penn' tag='S' >
+      <phrase id='27969576' tag='NP' >
+       <phrase id='43887588' tag='NP' >
+        <word id='46885056' tag='DT' >The</word>
+        <word id='49201536' tag='JJ' >granule</word>
+        <word id='51304248' tag='NN' >cell</word>
+       </phrase>
+       <phrase id='53058816' tag='PP' >
+        <word id='28202508' tag='IN' >in</word>
+        <phrase id='42623004' tag='NP' >
+         <word id='47618052' tag='NN' >turn</word>
+        </phrase>
+       </phrase>
+      </phrase>
+      <phrase id='49785588' tag='VP' >
+       <word id='51657612' tag='VBZ' >releases</word>
+       <phrase id='53349444' tag='S' >
+        <phrase id='40768488' tag='NP' >
+         <word id='41522880' tag='NNP' >GABA</word>
+        </phrase>
+        <phrase id='48016800' tag='VP' >
+         <word id='50300340' tag='TO' >to</word>
+         <phrase id='52287600' tag='VP' >
+          <word id='28019508' tag='VB' >cause</word>
+          <phrase id='44010228' tag='NP' >
+           <word id='47541012' tag='DT' >an</word>
+           <word id='50046228' tag='JJ' >inhibitory</word>
+           <word id='52186896' tag='NN' >effect</word>
+          </phrase>
+          <phrase id='28151820' tag='PP' >
+           <word id='41362848' tag='IN' >on</word>
+           <phrase id='47925360' tag='NP' >
+            <word id='50495124' tag='DT' >the</word>
+            <word id='52627116' tag='JJ' >mitral</word>
+            <word id='41614152' tag='NN' >cell</word>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='45882420' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27589032' tag_set=':penn' tag='S' >
+      <phrase id='48680112' tag='NP' >
+       <word id='50847312' tag='JJR' >More</word>
+       <word id='52681272' tag='NN' >neurotransmitter</word>
+      </phrase>
+      <phrase id='27608568' tag='VP' >
+       <word id='42727956' tag='VBZ' >is</word>
+       <phrase id='46287900' tag='VP' >
+        <word id='48663036' tag='VBN' >released</word>
+        <phrase id='50804796' tag='PP' >
+         <word id='47675172' tag='IN' >from</word>
+         <phrase id='28102128' tag='NP' >
+          <phrase id='42617748' tag='NP' >
+           <word id='47769696' tag='DT' >the</word>
+           <word id='50287524' tag='VBN' >activated</word>
+           <word id='52385964' tag='JJ' >mitral</word>
+           <word id='40693992' tag='NN' >cell</word>
+          </phrase>
+          <phrase id='41743248' tag='PP' >
+           <word id='48154356' tag='TO' >to</word>
+           <phrase id='50592552' tag='NP' >
+            <phrase id='52729344' tag='NP' >
+             <word id='41965452' tag='DT' >the</word>
+             <word id='46500408' tag='JJ' >connected</word>
+             <word id='49203396' tag='NN' >dendrite</word>
+            </phrase>
+            <phrase id='51556908' tag='PP' >
+             <word id='28174356' tag='IN' >of</word>
+             <phrase id='41690604' tag='NP' >
+              <word id='48362844' tag='DT' >the</word>
+              <word id='50993964' tag='JJ' >granule</word>
+              <word id='27945636' tag='NN' >cell</word>
+             </phrase>
+            </phrase>
+            <punctuation id='44018304' tag=',' >,</punctuation>
+            <phrase id='47556300' tag='VP' >
+             <word id='50284188' tag='VBG' >making</word>
+             <phrase id='52481292' tag='NP' >
+              <phrase id='42165840' tag='NP' >
+               <word id='46759224' tag='DT' >the</word>
+               <word id='49747080' tag='JJ' >inhibitory</word>
+               <word id='52177968' tag='NN' >effect</word>
+              </phrase>
+              <phrase id='42352368' tag='PP' >
+               <word id='46801980' tag='IN' >from</word>
+               <phrase id='49790808' tag='NP' >
+                <word id='52288428' tag='DT' >the</word>
+                <word id='43310568' tag='JJ' >granule</word>
+                <word id='47354052' tag='NN' >cell</word>
+               </phrase>
+              </phrase>
+             </phrase>
+             <phrase id='50038296' tag='PP' >
+              <word id='52428312' tag='TO' >to</word>
+              <phrase id='42951456' tag='NP' >
+               <phrase id='47017836' tag='NP' >
+                <word id='50130336' tag='DT' >the</word>
+                <word id='27611076' tag='VBN' >activated</word>
+                <word id='43997328' tag='JJ' >mitral</word>
+                <word id='47830308' tag='NN' >cell</word>
+               </phrase>
+               <phrase id='50537532' tag='ADJP' >
+                <word id='28035060' tag='JJR' >stronger</word>
+               </phrase>
+               <phrase id='41366328' tag='PP' >
+                <word id='48358392' tag='IN' >than</word>
+                <phrase id='51099732' tag='NP' >
+                 <word id='40751364' tag='DT' >the</word>
+                 <word id='46251180' tag='VBG' >surrounding</word>
+                 <word id='49265724' tag='JJ' >mitral</word>
+                 <word id='52076844' tag='NNS' >cells</word>
+                </phrase>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='41087976' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27586428' tag_set=':penn' tag='S' >
+      <phrase id='46398996' tag='NP' >
+       <punctuation id='48669972' tag='NNP' >[</punctuation>
+       <number id='50803320' tag='CD' >4</number>
+      </phrase>
+      <phrase id='52545132' tag='VP' >
+       <punctuation id='53374596' tag='VBD' >]</punctuation>
+       <phrase id='41615796' tag='SBAR' >
+        <phrase id='46034796' tag='S' >
+         <phrase id='48458340' tag='NP' >
+          <word id='50846412' tag='PRP' >It</word>
+         </phrase>
+         <phrase id='47663388' tag='VP' >
+          <word id='40646568' tag='VBZ' >is</word>
+          <word id='41692164' tag='RB' >not</word>
+          <phrase id='48024564' tag='ADJP' >
+           <word id='50503248' tag='JJ' >clear</word>
+          </phrase>
+          <phrase id='52535520' tag='SBAR' >
+           <phrase id='40707264' tag='WHNP' >
+            <word id='42276240' tag='WP' >what</word>
+           </phrase>
+           <phrase id='48360732' tag='S' >
+            <phrase id='50856384' tag='NP' >
+             <phrase id='53048412' tag='NP' >
+              <word id='43481880' tag='DT' >the</word>
+              <phrase id='47216052' tag='ADJP' >
+               <word id='50183172' tag='JJ' >functional</word>
+              </phrase>
+              <word id='52485768' tag='NN' >role</word>
+             </phrase>
+             <phrase id='42709080' tag='PP' >
+              <word id='46898700' tag='IN' >of</word>
+              <phrase id='49791468' tag='NP' >
+               <word id='52229232' tag='JJ' >lateral</word>
+               <word id='42179976' tag='NN' >inhibition</word>
+              </phrase>
+             </phrase>
+            </phrase>
+            <phrase id='46500900' tag='VP' >
+             <word id='49254192' tag='MD' >would</word>
+             <phrase id='51661440' tag='VP' >
+              <word id='40680432' tag='VB' >be</word>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+          <punctuation id='41459268' tag=',' >,</punctuation>
+          <phrase id='48103140' tag='SBAR' >
+           <word id='50602884' tag='IN' >though</word>
+           <phrase id='52676436' tag='S' >
+            <phrase id='41088180' tag='NP' >
+             <word id='46292628' tag='PRP' >it</word>
+            </phrase>
+            <phrase id='48930756' tag='VP' >
+             <word id='51409992' tag='MD' >may</word>
+             <phrase id='28029948' tag='VP' >
+              <word id='41313792' tag='VB' >be</word>
+              <phrase id='48140472' tag='VP' >
+               <word id='50859996' tag='VBN' >involved</word>
+               <phrase id='27973644' tag='PP' >
+                <word id='41324724' tag='IN' >in</word>
+                <phrase id='48300768' tag='S' >
+                 <phrase id='51149700' tag='VP' >
+                  <word id='40874580' tag='VBG' >boosting</word>
+                  <phrase id='46495560' tag='NP' >
+                   <phrase id='49784628' tag='NP' >
+                    <word id='27937236' tag='DT' >the</word>
+                    <word id='41736684' tag='JJ' >signal-to-noise</word>
+                    <word id='48890376' tag='NN' >ratio</word>
+                   </phrase>
+                   <phrase id='51755808' tag='PP' >
+                    <word id='45869508' tag='IN' >of</word>
+                    <phrase id='48024312' tag='NP' >
+                     <word id='51195816' tag='NN' >odor</word>
+                     <word id='42920868' tag='NNS' >signals</word>
+                    </phrase>
+                   </phrase>
+                  </phrase>
+                  <phrase id='47304024' tag='PP' >
+                   <word id='50489292' tag='IN' >by</word>
+                   <phrase id='40638264' tag='S' >
+                    <phrase id='46292088' tag='VP' >
+                     <word id='49798200' tag='VBG' >silencing</word>
+                     <phrase id='28010412' tag='NP' >
+                      <phrase id='45877812' tag='NP' >
+                       <word id='49407204' tag='DT' >the</word>
+                       <word id='28083480' tag='JJ' >basal</word>
+                       <word id='46190436' tag='NN' >firing</word>
+                       <word id='49881384' tag='NN' >rate</word>
+                      </phrase>
+                      <phrase id='28160964' tag='PP' >
+                       <word id='46378296' tag='IN' >of</word>
+                       <phrase id='49943832' tag='S' >
+                        <phrase id='40691508' tag='VP' >
+                         <word id='46801584' tag='VBG' >surrounding</word>
+                         <phrase id='50492004' tag='NP' >
+                          <word id='42768468' tag='JJ' >non-activated</word>
+                          <word id='48016968' tag='NNS' >neurons</word>
+                         </phrase>
+                        </phrase>
+                       </phrase>
+                      </phrase>
+                     </phrase>
+                    </phrase>
+                   </phrase>
+                  </phrase>
+                 </phrase>
+                </phrase>
+               </phrase>
+              </phrase>
+             </phrase>
+            </phrase>
+           </phrase>
+          </phrase>
+         </phrase>
+        </phrase>
+       </phrase>
+      </phrase>
+      <punctuation id='50178492' tag='.' >.</punctuation>
+     </sentence>
+     <sentence id='27583980' tag_set=':penn' tag='S' >
+      <phrase id='52275252' tag='NP' >
+       <phrase id='40764336' tag='NP' >
+        <word id='41503776' tag='DT' >This</word>
+       </phrase>
+       <phrase id='47884200' tag='PP' >
+        <word id='50248704' tag='IN' >in</word>
+        <phrase id='52189560' tag='NP' >
+         <word id='23956980' tag='NN' >turn</word>
+        </phrase>
+       </phrase>
+      </phrase>
+      <phrase id='42024804' tag='VP' >
+       <word id='46181232' tag='VBZ' >aids</word>
+       <phrase id='48461508' tag='PP' >
+        <word id='50739264' tag='IN' >in</word>
+        <phrase id='52631160' tag='NP' >
+         <word id='27884064' tag='NN' >odor</word>
+         <word id='43876380' tag='NN' >discrimination<
