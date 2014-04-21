@@ -1,0 +1,1180 @@
+<treat>
+<document id="23466420" file="C:/Ruby193/lib/ruby/gems/1.9.1/gems/treat-2.0.7/files//Piriform_cortex.html" format="html" images="["//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Piriform_cortex_of_a_mouse.jpg/250px-Piriform_cortex_of_a_mouse.jpg", "//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Human_brainstem_anterior_view_2_description.JPG/250px-Human_brainstem_anterior_view_2_description.JPG"]" url="http://en.wikipedia.org/wiki/Piriform_cortex">
+<section id="30014460" level="1">
+<title id="30014064">
+<phrase id="22926204" tag_set=":penn" tag="P">
+<phrase id="41426016" tag="NP">
+<word id="42756372" tag="JJ">Piriform</word>
+<word id="30756828" tag="NN">cortex</word>
+</phrase>
+<punctuation id="40388472" tag=":">-</punctuation>
+<phrase id="41564100" tag="NP">
+<phrase id="42913092" tag="NP">
+<word id="30039360" tag="NNP">Wikipedia</word>
+</phrase>
+<punctuation id="39761820" tag=",">,</punctuation>
+<phrase id="41229732" tag="NP">
+<word id="42658188" tag="DT">the</word>
+<word id="30006648" tag="JJ">free</word>
+<word id="39749916" tag="NN">encyclopedia</word>
+</phrase>
+</phrase>
+</phrase>
+</title>
+<paragraph id="30027948">
+<sentence id="22958292" tag_set=":penn" tag="S">
+<phrase id="41420136" tag="PP">
+<word id="42766824" tag="IN">In</word>
+<phrase id="23464512" tag="NP">
+<phrase id="39606372" tag="NP">
+<word id="41228052" tag="NN">anatomy</word>
+</phrase>
+<phrase id="42649260" tag="PP">
+<word id="30162540" tag="IN">of</word>
+<phrase id="40179348" tag="NP">
+<word id="41613468" tag="NNS">animals</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="43032924" tag=",">,</punctuation>
+<phrase id="30579912" tag="NP">
+<phrase id="40278708" tag="NP">
+<word id="41598252" tag="DT">the</word>
+<word id="43045056" tag="NN">piriform</word>
+<word id="30428880" tag="NN">cortex</word>
+</phrase>
+<punctuation id="40237140" tag=",">,</punctuation>
+<word id="41572512" tag="CC">or</word>
+<phrase id="42923808" tag="NP">
+<word id="30130116" tag="NN">pyriform</word>
+<word id="40082460" tag="NN">cortex</word>
+</phrase>
+</phrase>
+<phrase id="41434920" tag="VP">
+<word id="42764208" tag="VBZ">is</word>
+<phrase id="23525904" tag="NP">
+<phrase id="39650220" tag="NP">
+<word id="41273196" tag="DT">a</word>
+<word id="42754704" tag="NN">region</word>
+</phrase>
+<phrase id="30256944" tag="PP">
+<word id="40348080" tag="IN">in</word>
+<phrase id="41610840" tag="NP">
+<word id="22396644" tag="DT">the</word>
+<word id="39600804" tag="NN">brain</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="41018568" tag=".">.</punctuation>
+</sentence>
+</paragraph>
+<section id="30027384" level="2">
+<title id="30027036">
+<phrase id="23043132" tag_set=":penn" tag="P">
+<phrase id="42634152" tag="NP">
+<word id="29943348" tag="NN">Anatomy</word>
+<word id="39740652" tag="CC">and</word>
+<word id="41272812" tag="NN">function</word>
+</phrase>
+<phrase id="42663864" tag="NP">
+<punctuation id="23499108" tag="NNP">[</punctuation>
+<word id="39654528" tag="NNP">edit</word>
+<punctuation id="41221248" tag="NNP">]</punctuation>
+</phrase>
+</phrase>
+</title>
+<paragraph id="30025116">
+<sentence id="23116536" tag_set=":penn" tag="S">
+<phrase id="42764964" tag="NP">
+<word id="30061452" tag="DT">The</word>
+<word id="39813432" tag="NN">piriform</word>
+<word id="41351340" tag="NN">cortex</word>
+</phrase>
+<phrase id="42716076" tag="VP">
+<word id="30027180" tag="VBZ">is</word>
+<phrase id="39750408" tag="NP">
+<phrase id="41330640" tag="NP">
+<word id="42904992" tag="NN">part</word>
+</phrase>
+<phrase id="30736308" tag="PP">
+<word id="40644840" tag="IN">of</word>
+<phrase id="42292884" tag="NP">
+<phrase id="30100944" tag="NP">
+<word id="40391904" tag="DT">the</word>
+<word id="42235512" tag="NN">rhinencephalon</word>
+</phrase>
+<phrase id="30178608" tag="VP">
+<word id="40520112" tag="VBN">situated</word>
+<phrase id="42351408" tag="PP">
+<word id="31081884" tag="IN">in</word>
+<phrase id="40915296" tag="NP">
+<word id="22479408" tag="DT">the</word>
+<word id="39876492" tag="NN">telencephalon</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="41338572" tag=".">.</punctuation>
+</sentence>
+</paragraph>
+<paragraph id="30023256">
+<sentence id="23127612" tag_set=":penn" tag="S">
+<phrase id="42986700" tag="PP">
+<word id="31080420" tag="IN">In</word>
+<phrase id="40600920" tag="NP">
+<word id="42283860" tag="JJ">human</word>
+<word id="22294332" tag="NN">anatomy</word>
+</phrase>
+</phrase>
+<punctuation id="39390240" tag=",">,</punctuation>
+<phrase id="40868700" tag="NP">
+<word id="42408600" tag="DT">the</word>
+<punctuation id="43497948" tag="``">"</punctuation>
+<word id="37925184" tag="NN">piriform</word>
+<word id="40766064" tag="NN">lobe</word>
+<punctuation id="42350820" tag="''">"</punctuation>
+</phrase>
+<phrase id="43352244" tag="VP">
+<word id="31185024" tag="VBZ">has</word>
+<phrase id="40713528" tag="VP">
+<word id="42337056" tag="VBN">been</word>
+<phrase id="23035920" tag="VP">
+<word id="39663000" tag="VBN">described</word>
+<phrase id="41336112" tag="PP">
+<word id="42924180" tag="IN">as</word>
+<phrase id="39392556" tag="S">
+<phrase id="41178912" tag="VP">
+<word id="22917276" tag="VBG">consisting</word>
+<phrase id="39797748" tag="PP">
+<word id="41605332" tag="IN">of</word>
+<phrase id="30760008" tag="NP">
+<phrase id="40922748" tag="NP">
+<word id="30055560" tag="DT">the</word>
+<word id="40512996" tag="JJ">cortical</word>
+<word id="22416852" tag="NN">amygdala</word>
+</phrase>
+<punctuation id="39970080" tag=",">,</punctuation>
+<phrase id="41655060" tag="NP">
+<word id="39439068" tag="NNS">uncus</word>
+</phrase>
+<punctuation id="41441076" tag=",">,</punctuation>
+<word id="30753876" tag="CC">and</word>
+<phrase id="40919160" tag="NP">
+<word id="30058368" tag="JJ">anterior</word>
+<word id="40513224" tag="JJ">parahippocampal</word>
+<word id="22352436" tag="NNS">gyrus</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="39442056" tag=".">.</punctuation>
+</sentence>
+<fragment id="23180340" tag_set=":penn" tag="F">
+<phrase id="41072628" tag="VP">
+<punctuation id="42639924" tag="VBZ">[</punctuation>
+</phrase>
+<phrase id="43560540" tag="NP">
+<number id="39332412" tag="CD">1</number>
+<punctuation id="40906764" tag="NN">]</punctuation>
+</phrase>
+</fragment>
+</paragraph>
+<paragraph id="30021396">
+<sentence id="23295576" tag_set=":penn" tag="S">
+<phrase id="42595128" tag="NP">
+<phrase id="22920228" tag="NP">
+<word id="39551040" tag="DT">The</word>
+<word id="41224632" tag="NN">function</word>
+</phrase>
+<phrase id="42704196" tag="PP">
+<word id="30157044" tag="IN">of</word>
+<phrase id="40128864" tag="NP">
+<word id="41613804" tag="DT">the</word>
+<word id="21680376" tag="NN">piriform</word>
+<word id="39546276" tag="NN">cortex</word>
+</phrase>
+</phrase>
+</phrase>
+<phrase id="41018256" tag="VP">
+<word id="42584844" tag="VBZ">relates</word>
+<phrase id="23515116" tag="PP">
+<word id="39740400" tag="TO">to</word>
+<phrase id="41331552" tag="NP">
+<phrase id="42861552" tag="NP">
+<word id="31124388" tag="NN">olfaction</word>
+</phrase>
+<punctuation id="40859748" tag=",">,</punctuation>
+<phrase id="42466824" tag="SBAR">
+<phrase id="30571776" tag="WHNP">
+<word id="40661364" tag="WDT">which</word>
+</phrase>
+<phrase id="42399900" tag="S">
+<phrase id="30756408" tag="VP">
+<word id="40854156" tag="VBZ">is</word>
+<phrase id="42651756" tag="NP">
+<phrase id="39553740" tag="NP">
+<word id="41563212" tag="DT">the</word>
+<word id="30931440" tag="NN">perception</word>
+</phrase>
+<phrase id="40920192" tag="PP">
+<word id="29943852" tag="IN">of</word>
+<phrase id="40227156" tag="NP">
+<word id="42407208" tag="NNP">smells</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="31124952" tag=".">.</punctuation>
+</sentence>
+</paragraph>
+</section>
+<section id="30037116" level="2">
+<title id="30036768">
+<phrase id="23454084" tag_set=":penn" tag="P">
+<word id="40820844" tag="NNP">Phylogeny</word>
+<punctuation id="42340404" tag="NNP">[</punctuation>
+<word id="43346616" tag="NNP">edit</word>
+<punctuation id="30433644" tag="NNP">]</punctuation>
+</phrase>
+</title>
+<paragraph id="30034848">
+<sentence id="23474628" tag_set=":penn" tag="S">
+<phrase id="40651620" tag="S">
+<phrase id="42244116" tag="ADVP">
+<word id="43401828" tag="RB">Sometimes</word>
+</phrase>
+<phrase id="31104648" tag="VP">
+<word id="40760052" tag="VBN">called</word>
+<phrase id="42358080" tag="NP">
+<phrase id="30019632" tag="NP">
+<word id="40014600" tag="DT">the</word>
+<word id="41599008" tag="JJ">olfactory</word>
+<word id="23535744" tag="NN">cortex</word>
+</phrase>
+<punctuation id="39797280" tag=",">,</punctuation>
+<phrase id="41492064" tag="NP">
+<word id="2225892" tag="JJ">olfactory</word>
+<word id="39546828" tag="NN">lobe</word>
+</phrase>
+<word id="41278380" tag="CC">or</word>
+<phrase id="42851148" tag="NP">
+<word id="37945716" tag="NN">paleopallium</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="40771644" tag=",">,</punctuation>
+<phrase id="42293904" tag="NP">
+<word id="43389084" tag="NN">piriform</word>
+<word id="37916976" tag="NN">cortical</word>
+<word id="40777728" tag="NNS">regions</word>
+</phrase>
+<phrase id="42303168" tag="VP">
+<word id="43396464" tag="VBP">are</word>
+<phrase id="31113492" tag="ADJP">
+<word id="40764852" tag="JJ">present</word>
+<phrase id="42394668" tag="PP">
+<word id="30030936" tag="IN">in</word>
+<phrase id="39913788" tag="NP">
+<phrase id="41580660" tag="NP">
+<word id="23535504" tag="DT">the</word>
+<word id="40016928" tag="NNS">brains</word>
+</phrase>
+<phrase id="41590224" tag="PP">
+<word id="30062808" tag="IN">of</word>
+<phrase id="40166268" tag="NP">
+<word id="42231876" tag="NNS">amphibians</word>
+<punctuation id="30767268" tag=",">,</punctuation>
+<word id="40867404" tag="NNS">reptiles</word>
+<word id="42702108" tag="CC">and</word>
+<word id="39554376" tag="NNS">mammals</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="41075568" tag=".">.</punctuation>
+</sentence>
+</paragraph>
+<paragraph id="30032988">
+<sentence id="23491464" tag_set=":penn" tag="S">
+<phrase id="42869232" tag="NP">
+<word id="30185748" tag="DT">The</word>
+<word id="40170720" tag="NN">piriform</word>
+<word id="41588820" tag="NN">cortex</word>
+</phrase>
+<phrase id="43031436" tag="VP">
+<word id="30151656" tag="VBZ">is</word>
+<phrase id="40082892" tag="PP">
+<word id="41575152" tag="IN">among</word>
+<phrase id="43128468" tag="NP">
+<phrase id="31102752" tag="NP">
+<word id="40903044" tag="CD">three</word>
+<word id="42647796" tag="NNS">areas</word>
+</phrase>
+<phrase id="30761544" tag="SBAR">
+<phrase id="40701444" tag="WHNP">
+<word id="42503292" tag="WDT">that</word>
+</phrase>
+<phrase id="30759996" tag="S">
+<phrase id="40757004" tag="VP">
+<word id="42640848" tag="VBP">emerge</word>
+<phrase id="39354012" tag="PRT">
+<word id="41344452" tag="RP">in</word>
+</phrase>
+<phrase id="30061656" tag="NP">
+<phrase id="40348572" tag="NP">
+<word id="42402492" tag="DT">the</word>
+<word id="39535380" tag="NN">telencephalon</word>
+</phrase>
+<phrase id="41485872" tag="PP">
+<word id="30596508" tag="IN">of</word>
+<phrase id="40905228" tag="NP">
+<word id="30029280" tag="NNS">amphibians</word>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="40186404" tag=",">,</punctuation>
+<phrase id="42245976" tag="ADJP">
+<word id="31187796" tag="VBN">situated</word>
+<word id="41157900" tag="RB">caudally</word>
+<phrase id="30010104" tag="PP">
+<word id="40348380" tag="TO">to</word>
+<phrase id="42396408" tag="NP">
+<phrase id="39600252" tag="NP">
+<word id="41616276" tag="DT">a</word>
+<word id="39479748" tag="JJ">dorsal</word>
+<word id="41568324" tag="NN">area</word>
+</phrase>
+<punctuation id="37946688" tag=",">,</punctuation>
+<phrase id="41332236" tag="SBAR">
+<phrase id="30770280" tag="WHNP">
+<word id="41229996" tag="WDT">which</word>
+</phrase>
+<phrase id="30739140" tag="S">
+<phrase id="41163924" tag="VP">
+<word id="30927252" tag="VBZ">is</word>
+<phrase id="41291940" tag="ADJP">
+<word id="39334392" tag="JJ">caudal</word>
+<phrase id="41590632" tag="PP">
+<word id="39798360" tag="TO">to</word>
+<phrase id="23039700" tag="NP">
+<word id="40663704" tag="DT">a</word>
+<word id="30930228" tag="JJ">hippocampal</word>
+<word id="41539416" tag="NN">area</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="30143700" tag=".">.</punctuation>
+</sentence>
+<sentence id="23485644" tag_set=":penn" tag="S">
+<phrase id="40644132" tag="NP">
+<phrase id="42285504" tag="NP">
+<word id="43442400" tag="NNP">Farther</word>
+</phrase>
+<phrase id="30921828" tag="PP">
+<word id="40702176" tag="IN">along</word>
+<phrase id="42348204" tag="NP">
+<phrase id="23476308" tag="NP">
+<word id="39856656" tag="DT">the</word>
+<word id="41581056" tag="JJ">phylogenic</word>
+<word id="23120928" tag="NN">timeline</word>
+</phrase>
+<punctuation id="39744612" tag=",">,</punctuation>
+<phrase id="41441088" tag="NP">
+<phrase id="43037916" tag="NP">
+<word id="39497532" tag="DT">the</word>
+<word id="41348820" tag="JJ">telencephalic</word>
+<word id="23043360" tag="NN">bulb</word>
+</phrase>
+<phrase id="39755016" tag="PP">
+<word id="41574540" tag="IN">of</word>
+<phrase id="29976864" tag="NP">
+<phrase id="40075836" tag="NP">
+<word id="42286656" tag="NNS">reptiles</word>
+</phrase>
+<phrase id="31072716" tag="SBAR">
+<word id="41028564" tag="IN">as</word>
+<phrase id="23124804" tag="S">
+<phrase id="40076700" tag="VP">
+<word id="42356904" tag="VBN">viewed</word>
+<phrase id="39598320" tag="PP">
+<word id="41617344" tag="IN">in</word>
+<phrase id="39388992" tag="NP">
+<phrase id="41582496" tag="NP">
+<word id="39497676" tag="DT">a</word>
+<word id="41634456" tag="JJ">cross</word>
+<word id="39763056" tag="NN">section</word>
+</phrase>
+<phrase id="42232560" tag="PP">
+<word id="39917496" tag="IN">of</word>
+<phrase id="2301180" tag="NP">
+<word id="40389588" tag="DT">the</word>
+<word id="30069612" tag="JJ">transverse</word>
+<word id="40854300" tag="NN">plane</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<phrase id="42397392" tag="VP">
+<phrase id="30579984" tag="VP">
+<word id="40514652" tag="VBZ">extends</word>
+<phrase id="42231252" tag="PP">
+<word id="22314036" tag="IN">with</word>
+<phrase id="39597516" tag="NP">
+<phrase id="41420868" tag="NP">
+<word id="2284752" tag="DT">the</word>
+<word id="39664956" tag="JJ">archipallial</word>
+<word id="41546676" tag="NNS">hippocampus</word>
+<word id="23532732" tag="NN">folding</word>
+</phrase>
+<phrase id="39918696" tag="PP">
+<word id="41621880" tag="IN">toward</word>
+<phrase id="30045960" tag="NP">
+<word id="40387380" tag="DT">the</word>
+<word id="42345396" tag="NN">midline</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<word id="30152784" tag="CC">and</word>
+<phrase id="40117296" tag="ADVP">
+<word id="41599704" tag="RB">down</word>
+<phrase id="43196568" tag="PP">
+<word id="31114344" tag="IN">as</word>
+<phrase id="40863120" tag="NP">
+<word id="42651732" tag="DT">the</word>
+<word id="30751656" tag="JJ">dorsal</word>
+<word id="40716228" tag="NN">area</word>
+</phrase>
+</phrase>
+</phrase>
+<phrase id="42345252" tag="VP">
+<word id="23528856" tag="VBZ">begins</word>
+<phrase id="39749088" tag="S">
+<phrase id="41500092" tag="VP">
+<word id="43138344" tag="TO">to</word>
+<phrase id="39393804" tag="VP">
+<word id="41280840" tag="VB">form</word>
+<phrase id="5069472" tag="NP">
+<word id="39746436" tag="DT">a</word>
+<word id="41588448" tag="JJ">recognizable</word>
+<word id="30163248" tag="NN">cortex</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="40121640" tag=".">.</punctuation>
+</sentence>
+</paragraph>
+<paragraph id="30031128">
+<sentence id="23512956" tag_set=":penn" tag="S">
+<phrase id="42237084" tag="SBAR">
+<word id="43308912" tag="IN">As</word>
+<phrase id="30601968" tag="S">
+<phrase id="40598280" tag="NP">
+<word id="42357768" tag="JJ">mammalian</word>
+<word id="23516928" tag="NNS">cerebrums</word>
+</phrase>
+<phrase id="39740484" tag="VP">
+<word id="41495796" tag="VBD">developed</word>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="42924864" tag=",">,</punctuation>
+<phrase id="30100632" tag="NP">
+<phrase id="40019712" tag="NP">
+<word id="41585280" tag="NN">volume</word>
+</phrase>
+<phrase id="43118580" tag="PP">
+<word id="30573036" tag="IN">of</word>
+<phrase id="40453572" tag="NP">
+<word id="42303792" tag="DT">the</word>
+<word id="23460996" tag="JJ">dorsal</word>
+<word id="39803052" tag="NN">cortex</word>
+</phrase>
+</phrase>
+</phrase>
+<phrase id="41332656" tag="VP">
+<word id="42853356" tag="VBD">increased</word>
+<phrase id="30063660" tag="PP">
+<phrase id="40021692" tag="PP">
+<word id="41615196" tag="IN">in</word>
+<phrase id="43245204" tag="NP">
+<phrase id="39435996" tag="ADJP">
+<word id="41335176" tag="RB">slightly</word>
+<word id="21656964" tag="JJR">greater</word>
+</phrase>
+<word id="39614412" tag="NN">proportion</word>
+</phrase>
+</phrase>
+<punctuation id="41333688" tag=",">,</punctuation>
+<word id="42917412" tag="RB">as</word>
+<phrase id="30739200" tag="PP">
+<word id="40702896" tag="VBN">compared</word>
+<phrase id="42415776" tag="NP">
+<word id="30100608" tag="NN">proportionally</word>
+</phrase>
+</phrase>
+</phrase>
+<phrase id="40020552" tag="PP">
+<word id="41583540" tag="IN">with</word>
+<phrase id="43177284" tag="NP">
+<word id="31128144" tag="VBN">increased</word>
+<word id="40926240" tag="JJ">overall</word>
+<word id="42654036" tag="NN">brain</word>
+<word id="30275472" tag="NN">volume</word>
+</phrase>
+</phrase>
+<punctuation id="40352700" tag=",">,</punctuation>
+<phrase id="41629536" tag="SBAR">
+<word id="43248240" tag="IN">until</word>
+<phrase id="31088832" tag="S">
+<phrase id="40854588" tag="NP">
+<word id="42651852" tag="PRP">it</word>
+</phrase>
+<phrase id="30254592" tag="VP">
+<word id="40594236" tag="VBD">enveloped</word>
+<phrase id="42394464" tag="NP">
+<word id="30274692" tag="DT">the</word>
+<word id="40650792" tag="JJ">hippocampal</word>
+<word id="42577524" tag="NNS">regions</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="30119220" tag=".">.</punctuation>
+</sentence>
+<sentence id="23510076" tag_set=":penn" tag="S">
+<phrase id="40443408" tag="S">
+<phrase id="41642880" tag="VP">
+<word id="43295988" tag="VBN">Recognized</word>
+<phrase id="30749316" tag="PP">
+<word id="40707516" tag="IN">as</word>
+<phrase id="42454500" tag="NP">
+<word id="30115764" tag="NN">neopallium</word>
+<word id="40399260" tag="CC">or</word>
+<word id="42290904" tag="NN">neocortex</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="21790344" tag=",">,</punctuation>
+<phrase id="39353412" tag="NP">
+<word id="41019672" tag="JJ">enlarged</word>
+<word id="42641784" tag="JJ">dorsal</word>
+<word id="2253048" tag="NNS">areas</word>
+</phrase>
+<phrase id="28704612" tag="VP">
+<word id="40963356" tag="VBD">envelop</word>
+<phrase id="42589188" tag="NP">
+<word id="21790248" tag="DT">the</word>
+<word id="39493680" tag="JJ">paleopallial</word>
+<word id="41234364" tag="NN">piriform</word>
+<word id="42858732" tag="NN">cortex</word>
+</phrase>
+<phrase id="30116376" tag="PP">
+<word id="40177560" tag="IN">in</word>
+<phrase id="41632104" tag="NP">
+<phrase id="43289220" tag="NP">
+<word id="39436116" tag="NNS">humans</word>
+</phrase>
+<word id="41217888" tag="CC">and</word>
+<phrase id="42859260" tag="NP">
+<word id="31104012" tag="NNP">Old</word>
+<word id="40974588" tag="NNP">World</word>
+<word id="42717360" tag="NNP">monkeys</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="30185424" tag=".">.</punctuation>
+</sentence>
+</paragraph>
+<paragraph id="30029268">
+<sentence id="23543796" tag_set=":penn" tag="S">
+<phrase id="40602240" tag="PP">
+<word id="42303336" tag="IN">Among</word>
+<phrase id="43442100" tag="NP">
+<phrase id="30752976" tag="NP">
+<word id="40718544" tag="JJ">taxonomic</word>
+<word id="42506244" tag="NNS">groupings</word>
+</phrase>
+<phrase id="30026880" tag="PP">
+<word id="40024020" tag="IN">of</word>
+<phrase id="41605428" tag="NP">
+<word id="21829080" tag="NNS">mammals</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="39394308" tag=",">,</punctuation>
+<phrase id="40975896" tag="NP">
+<phrase id="42595344" tag="NP">
+<word id="2279448" tag="DT">the</word>
+<word id="39483012" tag="NN">piriform</word>
+<word id="41220720" tag="NN">cortex</word>
+</phrase>
+<word id="42758196" tag="CC">and</word>
+<phrase id="30012588" tag="NP">
+<word id="39916764" tag="DT">the</word>
+<word id="41572740" tag="JJ">olfactory</word>
+<word id="43136424" tag="NN">bulb</word>
+</phrase>
+</phrase>
+<phrase id="30409740" tag="VP">
+<word id="40437708" tag="VBP">become</word>
+<phrase id="41653764" tag="ADJP">
+<word id="43351980" tag="RB">proportionally</word>
+<word id="31072464" tag="JJR">smaller</word>
+</phrase>
+<phrase id="40705680" tag="PP">
+<word id="42403380" tag="IN">in</word>
+<phrase id="22295892" tag="NP">
+<phrase id="39597984" tag="NP">
+<word id="41491668" tag="DT">the</word>
+<word id="43139280" tag="NNS">brains</word>
+</phrase>
+<phrase id="39351420" tag="PP">
+<word id="41278848" tag="IN">of</word>
+<phrase id="42919104" tag="NP">
+<word id="39331512" tag="JJ">phylogenically</word>
+<word id="41287392" tag="JJR">younger</word>
+<word id="2260860" tag="NNS">species</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="39291240" tag=".">.</punctuation>
+</sentence>
+<sentence id="23542056" tag_set=":penn" tag="S">
+<phrase id="41225964" tag="NP">
+<word id="42807468" tag="DT">The</word>
+<word id="22296888" tag="NN">piriform</word>
+<word id="39484632" tag="NN">cortex</word>
+</phrase>
+<phrase id="41029752" tag="VP">
+<phrase id="42652152" tag="VP">
+<word id="22939296" tag="VBZ">occupies</word>
+<phrase id="39553980" tag="NP">
+<phrase id="41345544" tag="NP">
+<word id="43046172" tag="DT">a</word>
+<word id="37932660" tag="JJR">greater</word>
+<word id="41159292" tag="NN">proportion</word>
+</phrase>
+<phrase id="42805596" tag="PP">
+<word id="31082868" tag="IN">of</word>
+<phrase id="40912032" tag="NP">
+<word id="42768768" tag="DT">the</word>
+<word id="37908480" tag="JJ">overall</word>
+<word id="41170056" tag="NN">brain</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<word id="42719388" tag="CC">and</word>
+<phrase id="30149892" tag="VP">
+<phrase id="40274604" tag="PP">
+<word id="42230316" tag="IN">of</word>
+<phrase id="21651516" tag="NP">
+<phrase id="39602088" tag="NP">
+<word id="41553408" tag="DT">the</word>
+<word id="23303964" tag="JJ">telencephalic</word>
+<word id="39916020" tag="NNS">brains</word>
+</phrase>
+<phrase id="41615832" tag="PP">
+<word id="30013368" tag="IN">of</word>
+<phrase id="40131576" tag="NP">
+<word id="42302616" tag="NNS">insectivores</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<phrase id="30055176" tag="ADVP">
+<word id="40116528" tag="IN">than</word>
+<phrase id="41634792" tag="PP">
+<word id="22586808" tag="IN">in</word>
+<phrase id="39667452" tag="NP">
+<word id="41588988" tag="NNS">primates</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="43117860" tag=".">.</punctuation>
+</sentence>
+<sentence id="23539452" tag_set=":penn" tag="S">
+<phrase id="39332868" tag="NP">
+<word id="41020296" tag="DT">The</word>
+<word id="42649236" tag="NN">piriform</word>
+<word id="41026560" tag="NN">cortex</word>
+</phrase>
+<phrase id="37927248" tag="VP">
+<word id="40923768" tag="VBZ">continues</word>
+<phrase id="42587148" tag="S">
+<phrase id="2299392" tag="VP">
+<word id="39538392" tag="TO">to</word>
+<phrase id="41332896" tag="VP">
+<word id="43038840" tag="VB">occupy</word>
+<phrase id="37925712" tag="NP">
+<phrase id="41175444" tag="NP">
+<word id="2277564" tag="DT">a</word>
+<phrase id="39658956" tag="ADJP">
+<word id="41617632" tag="JJ">consistent</word>
+</phrase>
+<word id="30270024" tag="JJ">albeit</word>
+<phrase id="40708884" tag="ADJP">
+<word id="42714396" tag="JJ">small</word>
+<word id="39545940" tag="CC">and</word>
+<word id="41578464" tag="VBG">declining</word>
+</phrase>
+<word id="30177852" tag="NN">proportion</word>
+</phrase>
+<phrase id="40598520" tag="PP">
+<word id="42595080" tag="IN">of</word>
+<phrase id="31115292" tag="NP">
+<phrase id="41224188" tag="NP">
+<word id="30050856" tag="DT">the</word>
+<phrase id="40452684" tag="ADJP">
+<word id="41287224" tag="RB">increasingly</word>
+<word id="39873084" tag="JJ">large</word>
+</phrase>
+<word id="42295752" tag="NN">telencephalon</word>
+</phrase>
+<phrase id="37920336" tag="PP">
+<word id="41432640" tag="IN">in</word>
+<phrase id="30130728" tag="NP">
+<word id="40814184" tag="DT">the</word>
+<word id="23510868" tag="RBS">most</word>
+<word id="40443492" tag="JJ">recent</word>
+<word id="42641184" tag="NN">primate</word>
+<word id="39859656" tag="NNS">species</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<phrase id="41606652" tag="SBAR">
+<word id="30114324" tag="IN">while</word>
+<phrase id="40446984" tag="S">
+<phrase id="42465804" tag="NP">
+<phrase id="31075872" tag="NP">
+<word id="41286204" tag="DT">the</word>
+<word id="30090324" tag="NN">volume</word>
+</phrase>
+<phrase id="40522800" tag="PP">
+<word id="42700032" tag="IN">of</word>
+<phrase id="39656136" tag="NP">
+<word id="41661924" tag="DT">the</word>
+<word id="28710456" tag="JJ">olfactory</word>
+<word id="41538384" tag="NN">bulb</word>
+</phrase>
+</phrase>
+</phrase>
+<phrase id="30151824" tag="VP">
+<word id="40718268" tag="VBZ">becomes</word>
+<phrase id="42761328" tag="NP">
+<phrase id="39611748" tag="NP">
+<word id="41664600" tag="JJR">less</word>
+</phrase>
+<phrase id="31114128" tag="PP">
+<word id="41428800" tag="IN">in</word>
+<phrase id="30411072" tag="NP">
+<word id="41082924" tag="NN">proportion</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="42656832" tag=".">.</punctuation>
+</sentence>
+</paragraph>
+</section>
+<section id="30044988" level="2">
+<title id="30044640">
+<phrase id="29974824" tag_set=":penn" tag="P">
+<phrase id="30736620" tag="VP">
+<word id="40648440" tag="VB">Role</word>
+<phrase id="42338772" tag="PP">
+<word id="43511604" tag="IN">in</word>
+<phrase id="31115100" tag="NP">
+<word id="40981920" tag="NNP">epilepsy</word>
+<punctuation id="42757776" tag="NNP">[</punctuation>
+<word id="30180624" tag="NNP">edit</word>
+<punctuation id="40495476" tag="NNP">]</punctuation>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</title>
+<paragraph id="30042720">
+<sentence id="29943600" tag_set=":penn" tag="S">
+<phrase id="42414276" tag="NP">
+<word id="43558824" tag="DT">The</word>
+<word id="37915452" tag="NN">piriform</word>
+<word id="40967880" tag="NN">cortex</word>
+</phrase>
+<phrase id="42577116" tag="VP">
+<word id="43625448" tag="VBZ">contains</word>
+<phrase id="31115676" tag="NP">
+<phrase id="40916712" tag="NP">
+<word id="42711240" tag="DT">a</word>
+<word id="30088260" tag="JJ">critical</word>
+<punctuation id="40186644" tag=",">,</punctuation>
+<phrase id="41768808" tag="ADJP">
+<word id="23444760" tag="RB">functionally</word>
+<word id="39815772" tag="JJ">defined</word>
+</phrase>
+<word id="41584128" tag="JJ">epileptogenic</word>
+<word id="43248624" tag="NN">trigger</word>
+<word id="39431340" tag="NN">zone</word>
+</phrase>
+<punctuation id="41214744" tag=",">,</punctuation>
+<punctuation id="42864252" tag="``">"</punctuation>
+<phrase id="30163008" tag="NP">
+<word id="40446144" tag="NNP">Area</word>
+<word id="42349236" tag="NNP">Tempestas</word>
+</phrase>
+<punctuation id="22521444" tag="''">"</punctuation>
+</phrase>
+</phrase>
+<punctuation id="39440952" tag=".">.</punctuation>
+</sentence>
+<sentence id="30012180" tag_set=":penn" tag="S">
+<phrase id="41350080" tag="NP">
+<phrase id="42921312" tag="QP">
+<punctuation id="23543604" tag="CD">[</punctuation>
+<number id="39803400" tag="CD">2</number>
+</phrase>
+<punctuation id="41496744" tag="JJ">]</punctuation>
+<phrase id="43030296" tag="UCP">
+<phrase id="30143052" tag="PP">
+<word id="40443744" tag="IN">From</word>
+<phrase id="42289116" tag="NP">
+<phrase id="23506896" tag="NP">
+<word id="40022976" tag="DT">this</word>
+<word id="41765352" tag="NN">site</word>
+</phrase>
+<phrase id="30046320" tag="PP">
+<word id="40279284" tag="IN">in</word>
+<phrase id="42346896" tag="NP">
+<word id="30435060" tag="NN">piriform</word>
+<word id="40818336" tag="NN">cortex</word>
+<word id="42806448" tag="NN">chemical</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<word id="31119828" tag="CC">and</word>
+<phrase id="40909104" tag="ADVP">
+<word id="42701100" tag="RB">electrically</word>
+</phrase>
+<phrase id="30050064" tag="ADJP">
+<word id="40077420" tag="JJ">evoked</word>
+</phrase>
+</phrase>
+<word id="41612256" tag="NNS">seizures</word>
+</phrase>
+<phrase id="43174416" tag="VP">
+<word id="30173844" tag="MD">can</word>
+<phrase id="40230756" tag="VP">
+<word id="41771100" tag="VB">be</word>
+<phrase id="43398660" tag="VP">
+<word id="31186968" tag="VBN">triggered</word>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="40772268" tag=".">.</punctuation>
+</sentence>
+<sentence id="30010716" tag_set=":penn" tag="S">
+<phrase id="42651048" tag="NP">
+<word id="43767012" tag="PRP">It</word>
+</phrase>
+<phrase id="37918068" tag="VP">
+<word id="40966320" tag="VBZ">is</word>
+<phrase id="42633636" tag="NP">
+<phrase id="2260128" tag="NP">
+<word id="39494376" tag="DT">the</word>
+<word id="41435112" tag="NN">site</word>
+</phrase>
+<phrase id="42987720" tag="PP">
+<word id="30770880" tag="IN">of</word>
+<phrase id="40757256" tag="NP">
+<phrase id="42654864" tag="NP">
+<word id="30570408" tag="NN">action</word>
+</phrase>
+<phrase id="40657632" tag="PP">
+<word id="42648672" tag="IN">for</word>
+<phrase id="30757812" tag="NP">
+<phrase id="40969500" tag="NP">
+<word id="30908004" tag="DT">the</word>
+<word id="39758316" tag="JJ">proconvulsant</word>
+<word id="41660304" tag="NN">action</word>
+</phrase>
+<phrase id="30576396" tag="PP">
+<word id="40974048" tag="IN">of</word>
+<phrase id="2260344" tag="NP">
+<word id="39872352" tag="NNS">chemoconvulsants</word>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+</phrase>
+<punctuation id="41543376" tag=".">.</punctuation>
+</sentence>
+<fragment id="30009312" tag_set=":penn" tag="F">
+<punctuation id="43187016" tag="NNP">[</punctuation>
+<number id="30603288" tag="NNP">3</number>
+<punctuation id="40454112" tag="NNP">]</punctuation>
+</fragment>
+</paragraph>
+</section>
+<section id="30042060" level="2">
+<title id="30041712">
+<phrase id="30020220" tag_set=":penn" tag="P">
+<phrase id="42348384" tag="VP">
+<word id="43501884" tag="VB">See</word>
+<phrase id="30424140" tag="ADVP">
+<word id="40515204" tag="RB">also</word>
+</phrase>
+</phrase>
+<phrase id="42232896" tag="NP">
+<punctuation id="43442520" tag="NNP">[</punctuation>
+<word id="30589092" tag="NNP">edit</word>
+<punctuation id="40524168" tag="NNP">]</punctuation>
+</phrase>
+</phrase>
+</title>
+</section>
+<section id="30041004" level="2">
+<title id="30040656">
+<phrase id="30014832" tag_set=":penn" tag="P">
+<word id="42407856" tag="NNP">References</word>
+<punctuation id="43504776" tag="NNP">[</punctuation>
+<word id="30271356" tag="NNP">edit</word>
+<punctuation id="40237992" tag="NNP">]</punctuation>
+</phrase>
+</title>
+<list id="30039696">
+<paragraph id="30039012">
+<sentence id="30042924" tag_set=":penn" tag="S">
+<phrase id="42337824" tag="NP">
+<symbol id="43551024" tag="NNP">^</symbol>
+<word id="30920052" tag="NNP">Estomih</word>
+<word id="40764588" tag="NNP">Mtui</word>
+</phrase>
+<punctuation id="42504660" tag=":">;</punctuation>
+<phrase id="43622772" tag="NP">
+<phrase id="37922688" tag="NP">
+<word id="41076384" tag="NNP">Gregory</word>
+<word id="42867744" tag="NNP">Gruener</word>
+<punctuation id="30171576" tag="NNP">(</punctuation>
+</phrase>
+<phrase id="40390164" tag="NP">
+<number id="42342204" tag="CD">2006</number>
+<punctuation id="21652164" tag="NNS">)</punctuation>
+</phrase>
+</phrase>
+<punctuation id="39435084" tag=".">.</punctuation>
+</sentence>
+<sentence id="30040908" tag_set=":penn" tag="S">
+<phrase id="41420952" tag="NP">
+<word id="43039056" tag="NNP">Clinical</word>
+<word id="30078852" tag="NNP">Neuroanatomy</word>
+<word id="40122264" tag="CC">and</word>
+<word id="41648028" tag="NNP">Neuroscience</word>
+</phrase>
+<punctuation id="43302024" tag=":">:</punctuation>
+<phrase id="30422868" tag="PP">
+<word id="40513404" tag="IN">With</word>
+<phrase id="42349464" tag="NP">
+<word id="43611108" tag="NNP">STUDENT</word>
+<word id="39434016" tag="NNP">CONSULT</word>
+<word id="41291580" tag="NNP">Online</word>
+<word id="43031856" tag="NNPS">Access</word>
+</phrase>
+</phrase>
+<punctuation id="30269460" tag=".">.</punctuation>
+</sentence>
+<sentence id="30039036" tag_set=":penn" tag="S">
+<phrase id="40607172" tag="NP">
+<word id="42418488" tag="NNP">Philadelphia</word>
+</phrase>
+<punctuation id="43561332" tag=":">:</punctuation>
+<phrase id="30922032" tag="NP">
+<word id="40776948" tag="NNP">Saunders</word>
+</phrase>
+<punctuation id="42581256" tag=".">.</punctuation>
+</sentence>
+<sentence id="30053472" tag_set=":penn" tag="S">
+<phrase id="43769244" tag="VP">
+<word id="39339936" tag="VB">p</word>
+</phrase>
+<punctuation id="41117136" tag=".">.</punctuation>
+</sentence>
+<fragment id="30051696" tag_set=":penn" tag="F">
+<punctuation id="42903948" tag="UH">.</punctuation>
+</fragment>
+<sentence id="30050028" tag_set=":penn" tag="S">
+<punctuation id="30052728" tag="UH">.</punctuation>
+</sentence>
+<fragment id="30048492" tag_set=":penn" tag="F"></fragment>
+</paragraph>
+<paragraph id="30038220">
+<sentence id="30065832" tag_set=":penn" tag="S">
+<symbol id="23531916" tag="SYM">^</symbol>
+<word id="23542980" tag="NNP">Piredda</word>
+<word id="23540172" tag="NNP">S</word>
+<punctuation id="23715348" tag=",">,</punctuation>
+<word id="29977884" tag="NNP">Gale</word>
+<word id="29975088" tag="NNP">K</word>
+<punctuation id="29973072" tag="LRB">(</punctuation>
+<word id="29971392" tag="NNP">October</word>
+<number id="29950188" tag="CD">1985</number>
+<punctuation id="29948496" tag="RRB">)</punctuation>
+<punctuation id="29946888" tag=".">.</punctuation>
+<punctuation id="29945208" tag="SYM">"</punctuation>
+</sentence>
+<sentence id="30064260" tag_set=":penn" tag="S">
+<word id="30022140" tag="DT">A</word>
+<word id="30036684" tag="JJ">crucial</word>
+<word id="30035004" tag="FW">epileptogeneic</word>
+<word id="30033324" tag="NN">site</word>
+<word id="30031356" tag="IN">in</word>
+<word id="30029508" tag="DT">the</word>
+<word id="30043920" tag="JJ">deep</word>
+<word id="30041892" tag="FW">prepiriform</word>
+<word id="30039708" tag="FW">cortex</word>
+<punctuation id="30037644" tag="SYM">"</punctuation>
+<punctuation id="30051960" tag="FW">.</punctuation>
+</sentence>
+<sentence id="30062748" tag_set=":penn" tag="S">
+<word id="30075084" tag="NNP">Nature</word>
+<number id="30073428" tag="CD">317</number>
+<punctuation id="30071832" tag="LRB">(</punctuation>
+<number id="30070296" tag="CD">6038</number>
+<punctuation id="30085080" tag="RRB">)</punctuation>
+<punctuation id="30083544" tag=";">:</punctuation>
+<symbol id="30081996" tag="CD">623–5</symbol>
+<punctuation id="30080400" tag=".">.</punctuation>
+</sentence>
+<sentence id="30077616" tag_set=":penn" tag="S">
+<punctuation id="30113868" tag=".">.</punctuation>
+</sentence>
+<fragment id="30076152" tag_set=":penn" tag="F"></fragment>
+</paragraph>
+<paragraph id="30037488">
+<sentence id="30089520" tag_set=":penn" tag="S">
+<symbol id="30186336" tag="SYM">^</symbol>
+<word id="30184380" tag="NNP">Löscher</word>
+<word id="30182544" tag="NNP">W</word>
+<punctuation id="30180732" tag=",">,</punctuation>
+<word id="30178932" tag="NNP">Ebert</word>
+<word id="30259020" tag="NNP">U</word>
+<punctuation id="30257184" tag="LRB">(</punctuation>
+<word id="30255408" tag="NNP">December</word>
+<number id="30253572" tag="CD">1996</number>
+<punctuation id="30276276" tag="RRB">)</punctuation>
+<punctuation id="30274656" tag=".">.</punctuation>
+<punctuation id="30272760" tag="SYM">"</punctuation>
+</sentence>
+<sentence id="30087948" tag_set=":penn" tag="S">
+<word id="30430380" tag="DT">The</word>
+<word id="30428676" tag="NN">role</word>
+<word id="30574224" tag="IN">of</word>
+<word id="30572352" tag="DT">the</word>
+<word id="30570600" tag="FW">piriform</word>
+<word id="30568752" tag="FW">cortex</word>
+<word id="30583308" tag="IN">in</word>
+<word id="30581556" tag="VBG">kindling</word>
+<punctuation id="30579708" tag="SYM">"</punctuation>
+<punctuation id="30577908" tag="FW">.</punctuation>
+</sentence>
+<sentence id="30086448" tag_set=":penn" tag="S">
+<word id="30755520" tag="NNP">Prog</word>
+<punctuation id="30753180" tag=".">.</punctuation>
+</sentence>
+<sentence id="30103380" tag_set=":penn" tag="S">
+<word id="30910644" tag="NNP">Neurobiol</word>
+<punctuation id="30908844" tag=".">.</punctuation>
+</sentence>
+<fragment id="30101892" tag_set=":penn" tag="F">
+<number id="31081440" tag="CD">50</number>
+<punctuation id="31079232" tag="LRB">(</punctuation>
+<symbol id="31077252" tag="CD">5-6</symbol>
+<punctuation id="31091724" tag="RRB">)</punctuation>
+<punctuation id="31089528" tag=";">:</punctuation>
+<symbol id="31087584" tag="CD">427–81</symbol>
+<punctuation id="31085568" tag=".">.</punctuation>
+</fragment>
+<sentence id="30100380" tag_set=":penn" tag="S">
+<punctuation id="31187460" tag=".">.</punctuation>
+</sentence>
+<fragment id="30098916" tag_set=":penn" tag="F"></fragment>
+</paragraph>
+</list>
+</section>
+<section id="30053172" level="2">
+<title id="30052824">
+<phrase id="30118296" tag_set=":penn" tag="P">
+<word id="37931160" tag="NNP">External</word>
+<word id="37929204" tag="NNS">links</word>
+<punctuation id="37926660" tag="LRB">[</punctuation>
+<word id="37924812" tag="VB">edit</word>
+<punctuation id="37923084" tag="RRB">]</punctuation>
+</phrase>
+</title>
+</section>
+</section>
+</document>
+</treat>
