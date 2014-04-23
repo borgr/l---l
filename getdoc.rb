@@ -36,7 +36,7 @@ begin
 	doc.apply(:parse)
 rescue Exception => e
 	logger.error "exception at parsing - #{e.message}"
-	logger.error "#{e.backtrace.inspect}"
+	logger.debug "#{e.backtrace.inspect}"
 end
 logger.info "done"
 
