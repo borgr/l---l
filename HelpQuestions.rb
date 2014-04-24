@@ -56,3 +56,26 @@
 	def properPhrase (phrase)
 		return phrase.words.any?{|word| word.tag != "CD"}
 	end
+
+	#checks if the phrase starts with one of the givven words
+	# words - an array of strings
+	# sensitive - if true checks case sensitive
+	###################should add ignore
+	def phrase_start_with? (phrase, sensitive, *words)
+		#check for longest words, no need to downcase all the long phrase.
+		length = 0
+		words.each do |word|
+			if word.length > length
+				length = word.length
+			end
+		end
+		phrase_string = phrase.to_s[0, length]
+		if !sensitive
+			phrase_string.downcase!
+			words.each do |word|
+				word.downcase!
+			end
+		end
+
+		return words.any? {|word| phrase_string.start_with? (word)}
+	end
