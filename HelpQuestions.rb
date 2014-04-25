@@ -1,3 +1,4 @@
+	ENV['JAVA_HOME'] = "/usr/lib/jdk/jdk1.7.0_55"
 	NotPhrase = ["punctuation", "symbol", "number"]
 	def get_document
 		#d = document "http://en.wikipedia.org/wiki/Olfactory_bulb"
@@ -62,17 +63,10 @@
 		length = 0
 		
 		# there must be a better way to do it like in python max(words+ignore, lambda x: x.length) 
+		# there is, see below. assuming words and ignore are both arrays of String.
+		# if they are Treat Entitites need to add .to_s there
 		##########################################################################################
-		words.each do |word|
-			if word.length > length
-				length = word.length
-			end
-		end
-		ignore.each do |word|
-			if word.length > length
-				length = word.length
-			end
-		end
+		(words + ignore).max {|w,v| w.length <=> v.length}
 		##########################################################################################
 
 		phrase_string = phrase.to_s[0, length]
