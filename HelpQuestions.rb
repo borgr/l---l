@@ -102,9 +102,9 @@
 		
 	def remove_ads_recursivly(phrase, start = true, string)
 		check_punctuation = false
-		punctuation_before =
+		punctuation_before = #is taht on purpose? you're assigning the result of 'each' here?
 		phrase.each do |sub|
-			if check_punctuation && sub.is_a? Treat::Entities::Punctuation # if it is a panctuation remove HESGER
+			if check_punctuation && sub.is_a?(Treat::Entities::Punctuation) # if it is a panctuation remove HESGER
 				string.slice! last_phr.to_s
 			end
 			
@@ -118,7 +118,7 @@
 
 			
 			# check if next run will have the potential of being an HESGER
-			if sub.is_a? punctuation
+			if sub.is_a?(Treat::Entities::Punctuation)
 				punctuation_before = true
 			else
 				punctuation_before = false
