@@ -1,4 +1,3 @@
-	ENV['JAVA_HOME'] = "/usr/lib/jdk/jdk1.7.0_55"
 	NotPhrase = ["punctuation", "symbol", "number"]
 	def get_document
 		#d = document "http://en.wikipedia.org/wiki/Olfactory_bulb"
