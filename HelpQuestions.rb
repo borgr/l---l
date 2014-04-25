@@ -1,4 +1,4 @@
-
+	NotPhrase = ["punctuation", "symbol", "number"]
 	def get_document
 		#d = document "http://en.wikipedia.org/wiki/Olfactory_bulb"
 		#return d.apply(:chunk,:segment,:tokenize,:tag)
@@ -9,12 +9,6 @@
 	# exact - if true returns only if the full string is in the array
 	# note that the check is case sensitive
 	def in_arr? (arr, text, exact)
-
-	# ###how come these question is being made? what is the bug?
-	# *****************
-	# question62: what are associated with behavioral changes characteristic of depression, demonstrating the correlation between the olfactory bulb and emotion? ---
-	# answer: These hippocampal changes due to olfactory bulb removal
-
 		if exact
 			return arr.include? text
 		else
@@ -28,16 +22,15 @@
 	# tags - an array of strings containing POS tag names
 	# ignore - an array with strings to ignore
 	# insensitive - boolean case insensitive or not. default is true.
-	# exact - check for exact match
+	# exact - check for exact match with the ignore
 	def tagged (phrase, tags, ignore = [], insensitive = true, exact = true)
 		# make sure insensitive
 		if insensitive
 			ignore = ignore.map(&:downcase)
 		end
-		# pos are always upcase, just to maek sure
+		# p.o.s. are always upcase, just to make sure
 		tags = tags.map(&:upcase)
-
-		phrase.each do |sub|
+		phrase.each_entity do |sub|
 			if tags.include? sub.tag
 				if insensitive
 					if !in_arr?(ignore, sub.to_s.downcase, exact)
@@ -45,7 +38,6 @@
 					end
 				elsif !in_arr?(ignore, sub, exact)
 						return sub
-
 				end
 			end
 		end
@@ -54,7 +46,11 @@
 
 	#makes sure the phrase is proper
 	def properPhrase (phrase)
-		return phrase.words.any?{|word| word.tag != "CD"}
+		if !in_arr?(NotPhrase, phrase.type.to_s, false)
+			return phrase.words.any?{|word| word.tag != "CD"}
+		else
+			return false
+		end
 	end
 
 	#checks if the phrase starts with one of the givven words
