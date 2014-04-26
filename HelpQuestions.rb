@@ -1,4 +1,4 @@
-	NotPhrase = ["punctuation", "symbol", "number"]
+NotPhrase = ["punctuation", "symbol", "number"]
 	def get_document
 		#d = document "http://en.wikipedia.org/wiki/Olfactory_bulb"
 		#return d.apply(:chunk,:segment,:tokenize,:parse)
@@ -44,6 +44,12 @@
 		return nil
 	end
 
+	# checks if this entity is of the right tag
+	# tags - an array of strings to check if matches or not.
+	def exact_tag(entity, tags)
+		return (entity.has? :tag )&&( in_arr?(tags, entity.tag, true))
+	end
+
 	#makes sure the phrase is proper
 	def properPhrase (phrase)
 		if !in_arr?(NotPhrase, phrase.type.to_s, false)
@@ -56,18 +62,11 @@
 	#checks if the phrase starts with one of the givven words
 	# words - an array of strings
 	# sensitive - if true checks case sensitive
-	# ignore - a list of words to ignore
+	# ignore - an array of strings to ignore
 	def phrase_start_with? (phrase, sensitive, ignore, *words)
 		#check for longest words, no need to downcase all the long phrase.
 		length = 0
-		
-		# there must be a better way to do it like in python max(words+ignore, lambda x: x.length) 
-		# there is, see below. assuming words and ignore are both arrays of String.
-		# if they are Treat Entitites need to add .to_s there
-		##########################################################################################
 		(words + ignore).max {|w,v| w.length <=> v.length}
-		##########################################################################################
-
 		phrase_string = phrase.to_s[0, length]
 		if !sensitive
 			phrase_string.downcase!
@@ -81,6 +80,7 @@
 
 #######################################need to debug!! is_a in wrong syntax twice####################################################################################
 	# This function gets a phrase and returns a string of the phrase without any HESGER
+	# phrase - an entity to check (preferable not tokens)
 	# start - a boolean representing if this is the beggining of a phrase or comes
 	# after a punctuation
 	# sentence - true if this is a sentence and not just a phrae
@@ -92,43 +92,59 @@
 		return res
 	end
 
-		
+	# This function goes through each level of the phrase and removes HESGER from it
+	# 
 	def remove_ads_recursivly(phrase, start = true, string)
 		check_punctuation = false
-		punctuation_before = #is taht on purpose? you're assigning the result of 'each' here?
+		first_punctuation = nil
+		punctuation_before = start
+		tags = ["ADVP"]
+		last_phr = nil #the variable should never be used before a real string is assigned to it
 		phrase.each do |sub|
 			if check_punctuation && sub.is_a?(Treat::Entities::Punctuation) # if it is a panctuation remove HESGER
-				string.slice! last_phr.to_s
-			end
-			
-			# if it is an ADJP or ADVP after a punctuation, check if the next thing is a punctuation
-			if punctuation_before && (sub.tag == "ADVP" || sub.tag == "ADJP") 
-				check_punctuation = true
-				last_phr = sub.to_s
-			else 
+				puts "iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiin"+phrase
+				puts "sssssssssssssssssssssssssssssssssssssssssssssssstring " + phrase.to_s
+				string.gsub!(/\s* #{Regexp.escape(first_punctuation)}* \s* #{Regexp.escape(last_phr)} \s* #{Regexp.escape(sub.to_s)} \s*/x, " ")
+				puts "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaastring after " + last_phr
 				check_punctuation = false
-			end
-
-			
-			# check if next run will have the potential of being an HESGER
-			if sub.is_a?(Treat::Entities::Punctuation)
 				punctuation_before = true
+				first_punctuation = sub.to_s
 			else
-				punctuation_before = false
+				# if it is an ADJP or ADVP after a punctuation, check if the next thing is a punctuation
+				if punctuation_before && exact_tag(sub, tags)
+					check_punctuation = true
+					last_phr = sub.to_s
+				# check if next run will have the potential of being an HESGER
+				elsif sub.is_a?(Treat::Entities::Punctuation)
+					punctuation_before = true
+					first_punctuation = sub.to_s
+				else 
+				# This sub is neither a punctuation nor a potential HESGER
+					check_punctuation = false
+					punctuation_before = false
+				end
 			end
 
 			# do the same for sub entities
 			string = remove_ads_recursivly(sub, check_punctuation, string)
 		end
+
+		#if it ends with it, and without a punctuation, it must be an HESGER at the end.
+		if check_punctuation
+			string.gsub!(/\s* #{Regexp.escape(first_punctuation)}* \s* #{Regexp.escape(last_phr)} \s* /x, " ")
+			
+		end
 		return string
 	end
 
-	# need to check if it works!!!!! and then delete this part############################################################
-	require 'treat'
-	include Treat::Core::DSL
-	d = section 'In humans, however, the olfactory bulb is on the inferior (bottom) side of the brain.'
-	d.apply(:chunk,:segment,:tokenize,:parse)
-	puts remove_ads(d)
+	# # need to check if it works!!!!! and then delete this part############################################################
+	# require 'treat'
+	# include Treat::Core::DSL
+	# # d = section 'In humans, however, the olfactory bulb is on the inferior (bottom) side of the brain.'
+	# # d.apply(:chunk,:segment,:tokenize,:parse)
+	# d = get_document
+	# # puts d.visualize
+	# remove_ads(d)
 	###############################################################################################################
 
 	# takes a sentence and removes unimportant parts (X ,y and Z -> X , HESGER), returns a string
