@@ -11,7 +11,7 @@ par = get_document
 
 #a constant list of prepositions that should not be in the verb phrase
 NoWhat = ['into']
-RegNoWhat = /#{NoWhat.join("|")}/ # assuming there are no special chars
+
 
 #ask what verb
 #answer noun phrase before the verb
@@ -22,7 +22,7 @@ par.each_sentence do |sent|
 		if properPhrase(phrase)
 			if phrase.tag == "VP" 
 				#check if this is not a special case of VP
-				if !(RegNoWhat === phrase.to_s) && 
+				if !(arr_in_phrase?(NoWhat, phrase.to_s)) && 
 					verb = phrase
 				else
 					#need to implement or use another loop
@@ -46,4 +46,3 @@ par.each_sentence do |sent|
 		end
 	end
 end
-
