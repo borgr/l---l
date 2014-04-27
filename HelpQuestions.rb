@@ -19,26 +19,27 @@ end
 # checks if any of the strings in the array is in the string
 def arr_in_phrase? (arr, string)
 	#might be unefficient to recreate the reg each time, maybe better to return a regex?
-	reg = arr.map{|str| Regexp.escape(str)}
+	reg = arr.map {|str| Regexp.escape(str)}
 	reg = /#{arr.join("|")}/ 
 	return reg === string
 end
-# a function that checks if one of the sections in the phrase has one of the tags
+# a function that checks if one of the sections in the entity has one of the tags
 # the function ignores matches that are in the ignore array
-# phrase - any section
+# entity - any Treat object
 # tags - an array of strings containing POS tag names
 # ignore - an array with strings to ignore
 # insensitive - boolean case insensitive or not. default is true.
 # exact - check for exact match with the ignore
-def tagged (phrase, tags, ignore = [], insensitive = true, exact = true)
+def tagged (entity, tags, ignore = [], insensitive = true, exact = true)
 	# make sure insensitive
 	if insensitive
 		ignore = ignore.map(&:downcase)
 	end
 	# p.o.s. are always upcase, just to make sure
 	tags = tags.map(&:upcase)
-	phrase.each_entity do |sub|
-		if tags.include? sub.tag
+	entity.each_entity do |sub|
+		#if tags.include? sub.tag
+		if exact_tag? sub, tags
 			if insensitive
 				if !in_arr?(ignore, sub.to_s.downcase, exact)
 					return sub
@@ -49,16 +50,17 @@ def tagged (phrase, tags, ignore = [], insensitive = true, exact = true)
 		end
 	end
 	return nil
+
 end
 
 # checks if this entity is of the right tag
 # tags - an array of strings to check if matches or not.
-def exact_tag(entity, tags)
+def exact_tag?(entity, tags)
 	return (entity.has? :tag )&&( in_arr?(tags, entity.tag, true))
 end
 
-#makes sure the phrase is proper
-def properPhrase (phrase)
+# makes sure the phrase is proper
+def properPhrase? (phrase)
 	if !in_arr?(NotPhrase, phrase.type.to_s, false)
 		return phrase.words.any?{|word| word.tag != "CD"}
 	else
@@ -67,6 +69,7 @@ def properPhrase (phrase)
 end
 
 #checks if the phrase starts with one of the givven words
+# phrase - a Treat object
 # words - an array of strings
 # sensitive - if true checks case sensitive
 # ignore - an array of strings to ignore
@@ -83,15 +86,18 @@ def phrase_start_with? (phrase, sensitive, ignore, *words)
 	end
 
 	return words.any? {|word| phrase_string.start_with? (word)} && !ignore.any? {|word| phrase_string.start_with? (word)}
+
+	# check if this works. nicer syntax :)
+	# return words.reject{|w| ignore.include? w}.any? {|w| phrase_string.start_with? w}
+
 end
 
 # If change is true, changes the phrase into a sentence
-# sentence - a string that may need to become a sentence.
-def sentencize (sentence, change)
-	if change
-		sentence.capitalize!
-	end
-	return sentence
+# text - a string that may need to become a sentence.
+def sentencize (text, change)
+
+	return change? text.capitalize! : text
+
 end
 
 # This function gets a phrase and returns a string of the phrase without any interrupting phrase
@@ -120,7 +126,7 @@ def remove_interrupts_recursivly(phrase, start = true, string)
 			first_punctuation = sub.to_s
 		else
 			# if it is an ADJP or ADVP after a punctuation, check if the next thing is a punctuation
-			if punctuation_before && exact_tag(sub, tags)
+			if punctuation_before && exact_tag?(sub, tags)
 				check_punctuation = true
 				last_phr = sub.to_s
 			# check if next run will have the potential of being an interrupting phrase
@@ -162,7 +168,7 @@ def remove_duplicates_recursivly (phrase, important, string)
 	type = [""]
 	removables = ["CC", ","]
 	phrase.each do |sub|
-		if sub.exact_tag(type)
+		if sub.exact_tag?(type)
 			# it is a repetition
 			if delete.empty?
 			# If it is the first repetition, check the first
@@ -173,10 +179,10 @@ def remove_duplicates_recursivly (phrase, important, string)
 			same << sub.to_s
 			delete << !arr_in_phrase(important, sub.to_s)
 
-		elsif sub.exact_tag(removables)
+		elsif sub.exact_tag?(removables)
 			# it is not a repetition, but it is a connector of some sort ("," "or" "and" maybe something else?)
 			to_remove = sub.to_s
-		elsif !sub.exact_tag(removables)
+		elsif !sub.exact_tag?(removables)
 			# not a repetition
 			if !same.empty? && delete.any?{|boolean|boolean}
 				# delete unnecessary information

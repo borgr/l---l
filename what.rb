@@ -19,7 +19,7 @@ counter = 0;
 par.each_sentence do |sent|
 	verb,noun = nil,nil
 	sent.each do |phrase|
-		if properPhrase(phrase)
+		if properPhrase?(phrase)
 			if phrase.tag == "VP" 
 				#check if this is not a special case of VP
 				if !(arr_in_phrase?(NoWhat, phrase.to_s)) && 
