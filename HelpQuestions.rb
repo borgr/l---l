@@ -74,7 +74,7 @@ def properPhrase? (phrase)
 	end
 end
 
-#checks if the phrase starts with one of the givven words
+#checks if the phrase starts with one of the given words
 # phrase - a Treat object
 # words - an array of strings
 # sensitive - if true checks case sensitive
