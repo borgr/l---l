@@ -73,7 +73,6 @@ def properPhrase? (phrase)
 		return false
 	end
 end
-
 #checks if the phrase starts with one of the given words
 # words - an array of strings
 # sensitive - if true checks case sensitive
@@ -81,10 +80,11 @@ end
 #
 # return - boolean value
 def phrase_start_with? (phrase, sensitive, ignore, *words)
-	#check for longest words, no need to downcase all the long phrase.
-	length = 0
-	(words + ignore).max {|w,v| w.length <=> v.length}
-	phrase_string = phrase.to_s[0, length]
+	# #check for longest words, no need to downcase all the long phrase.
+	# length = 0
+	# (words + ignore).max {|w,v| w.length <=> v.length}
+	# phrase_string = phrase.to_s[0, length]
+	phrase_string = phrase.to_s
 	if !sensitive
 		phrase_string.downcase!
 		words.each do |word|
