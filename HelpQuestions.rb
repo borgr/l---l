@@ -23,23 +23,25 @@ def arr_in_phrase? (arr, string)
 	reg = /#{arr.join("|")}/ 
 	return reg === string
 end
-# a function that checks if one of the sections in the entity has one of the tags
+
+# a function that checks if one of the sections in the phrase has one of the tags
 # the function ignores matches that are in the ignore array
-# entity - any Treat object
+# phrase - any section
 # tags - an array of strings containing POS tag names
 # ignore - an array with strings to ignore
 # insensitive - boolean case insensitive or not. default is true.
 # exact - check for exact match with the ignore
-def tagged (entity, tags, ignore = [], insensitive = true, exact = true)
+#
+# return - the entity that was tagged or nil if there isn't one
+def tagged (phrase, tags, ignore = [], insensitive = true, exact = true)
 	# make sure insensitive
 	if insensitive
 		ignore = ignore.map(&:downcase)
 	end
 	# p.o.s. are always upcase, just to make sure
-	tags = tags.map(&:upcase)
-	entity.each_entity do |sub|
-		#if tags.include? sub.tag
-		if exact_tag? sub, tags
+	tags = correct_tags(tags) #what was the ruby way to call a functioin in place? !
+	phrase.each_entity do |sub|
+		if tags.include? sub.tag
 			if insensitive
 				if !in_arr?(ignore, sub.to_s.downcase, exact)
 					return sub
@@ -50,7 +52,11 @@ def tagged (entity, tags, ignore = [], insensitive = true, exact = true)
 		end
 	end
 	return nil
+end
 
+# a function that corrects the tags a function has got
+def correct_tags(tags)
+	return tags.map(&:upcase)
 end
 
 # checks if this entity is of the right tag
