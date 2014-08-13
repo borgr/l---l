@@ -75,10 +75,11 @@ def properPhrase? (phrase)
 end
 
 #checks if the phrase starts with one of the given words
-# phrase - a Treat object
 # words - an array of strings
 # sensitive - if true checks case sensitive
 # ignore - an array of strings to ignore
+#
+# return - boolean value
 def phrase_start_with? (phrase, sensitive, ignore, *words)
 	#check for longest words, no need to downcase all the long phrase.
 	length = 0
@@ -93,9 +94,8 @@ def phrase_start_with? (phrase, sensitive, ignore, *words)
 
 	return words.any? {|word| phrase_string.start_with? (word)} && !ignore.any? {|word| phrase_string.start_with? (word)}
 
-	# check if this works. nicer syntax :)
+	# must be a better implementation maybe improving this:
 	# return words.reject{|w| ignore.include? w}.any? {|w| phrase_string.start_with? w}
-
 end
 
 # If change is true, changes the phrase into a sentence
