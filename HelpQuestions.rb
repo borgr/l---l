@@ -102,7 +102,7 @@ end
 # text - a string that may need to become a sentence.
 def sentencize (text, change)
 
-	return change? text.capitalize! : text
+	return change ? text.capitalize! : text
 
 end
 
